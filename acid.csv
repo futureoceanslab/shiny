@@ -1,0 +1,2541 @@
+sp_id,sp_type,rgn_id,rgn_name,year,pressure_score,wrld_rgn
+0,eez,16,Australia,2005,0.514641667,Oceania
+1,eez,1,Cocos Islands,2005,0.491179905,Oceania
+2,eez,2,Christmas Island,2005,0.491993345,Oceania
+3,eez,3,Norfolk Island,2005,0.555991617,Oceania
+4,eez,4,Macquarie Island,2005,0.356451273,Oceania
+5,eez,5,New Caledonia,2005,0.583894166,Oceania
+6,eez,6,Vanuatu,2005,0.578990438,Oceania
+7,eez,7,Solomon Islands,2005,0.537975068,Oceania
+8,eez,8,Palau,2005,0.523061713,Oceania
+9,eez,9,Micronesia,2005,0.481017518,Oceania
+10,eez,10,Nauru,2005,0.322603671,Oceania
+11,eez,11,Marshall Islands,2005,0.466938809,Oceania
+12,eez,12,Wake Island,2005,0.510392162,Oceania
+13,eez,13,Northern Mariana Islands and Guam,2005,0.530583715,Oceania
+14,eez,14,Taiwan,2005,0.570569934,Asia
+15,eez,15,Philippines,2005,0.564974632,Asia
+17,eez,17,Papua New Guinea,2005,0.527030065,Oceania
+18,eez,18,Fiji,2005,0.584426403,Oceania
+19,eez,19,Tuvalu,2005,0.473346513,Oceania
+20,eez,20,South Korea,2005,0.52235824,Asia
+21,eez,21,North Korea,2005,0.459722251,Asia
+24,eez,24,Cambodia,2005,0.580523014,Asia
+25,eez,25,Thailand,2005,0.565730941,Asia
+26,eez,26,Andaman and Nicobar,2005,0.532662981,Islands
+28,eez,28,Comoro Islands,2005,0.493850389,Islands
+29,eez,29,Mayotte,2005,0.50693709,Islands
+30,eez,30,Glorioso Islands,2005,0.49948616,Islands
+31,eez,31,Seychelles,2005,0.481037682,Islands
+32,eez,32,Reunion,2005,0.570455323,Islands
+33,eez,33,Juan de Nova Island,2005,0.504101636,Islands
+34,eez,34,Bassas da India,2005,0.505839374,Islands
+35,eez,35,Ile Europa,2005,0.515859078,Islands
+36,eez,36,Ile Tromelin,2005,0.534192509,Islands
+37,eez,37,Mauritius,2005,0.542255795,Islands
+38,eez,38,British Indian Ocean Territory,2005,0.492667376,Islands
+39,eez,39,Maldives,2005,0.53896962,Islands
+40,eez,40,Sri Lanka,2005,0.513576984,Asia
+41,eez,41,Mozambique,2005,0.500347502,Africa
+42,eez,42,Madagascar,2005,0.532985011,Africa
+43,eez,43,Kenya,2005,0.469294246,Africa
+44,eez,44,Somalia,2005,0.439879167,Africa
+45,eez,45,Eritrea,2005,0.414000005,Africa
+46,eez,46,Djibouti,2005,0.413998873,Africa
+47,eez,47,Yemen,2005,0.422700103,Middle East
+48,eez,48,Oman,2005,0.445807743,Middle East
+49,eez,49,Sudan,2005,0.414000005,Africa
+50,eez,50,Saudi Arabia,2005,0.442850829,Middle East
+51,eez,51,Kuwait,2005,0.518999994,Middle East
+52,eez,52,Bahrain,2005,0.515382516,Middle East
+53,eez,53,Pakistan,2005,0.508976548,Asia
+54,eez,54,United Arab Emirates,2005,0.501921441,Middle East
+55,eez,55,Azores,2005,0.398664708,Islands
+56,eez,56,Cape Verde,2005,0.452746783,Islands
+57,eez,57,Madeira,2005,0.51133562,Islands
+58,eez,58,Canary Islands,2005,0.509908227,Islands
+59,eez,59,Belgium,2005,0.350773953,Europe
+60,eez,60,Gibraltar,2005,0.519999981,Europe
+61,eez,61,Tunisia,2005,0.497185258,Africa
+62,eez,62,Morocco,2005,0.511627718,Africa
+63,eez,63,Western Sahara,2005,0.461189197,Africa
+64,eez,64,Mauritania,2005,0.432662211,Africa
+65,eez,65,Gambia,2005,0.44344548,Africa
+66,eez,66,Senegal,2005,0.445855858,Africa
+67,eez,67,Libya,2005,0.49721775,Africa
+68,eez,68,Malta,2005,0.497000009,Europe
+69,eez,69,Latvia,2005,0.374000013,Europe
+70,eez,70,Estonia,2005,0.381722228,Europe
+71,eez,71,Bulgaria,2005,0.375,Europe
+72,eez,72,Romania,2005,0.375,Europe
+73,eez,73,Russia,2005,0.502723177,Europe
+74,eez,74,Georgia,2005,0.489934358,Europe
+75,eez,75,Ukraine,2005,0.429743517,Europe
+76,eez,76,Turkey,2005,0.444109171,Europe
+77,eez,77,Syria,2005,0.518999994,Middle East
+78,eez,78,Lebanon,2005,0.518999994,Middle East
+79,eez,79,Israel,2005,0.518999994,Middle East
+80,eez,80,Greece,2005,0.467718386,Europe
+81,eez,81,Cyprus,2005,0.518999994,Europe
+82,eez,82,Albania,2005,0.388205051,Europe
+84,eez,84,Algeria,2005,0.505490855,Africa
+85,eez,85,Ascension,2005,0.452076218,Islands
+86,eez,86,Saint Helena,2005,0.484520586,Islands
+88,eez,88,Tristan da Cunha,2005,0.346089063,Islands
+89,eez,89,South Georgia and the South Sandwich Islands,2005,0.350139593,Islands
+90,eez,90,Prince Edward Islands,2005,0.275945211,Islands
+91,eez,91,Crozet Islands,2005,0.27432042,Islands
+92,eez,92,Amsterdam Island and Saint Paul Island,2005,0.425305282,Islands
+93,eez,93,Kerguelen Islands,2005,0.16391691,Islands
+94,eez,94,Heard and McDonald Islands,2005,0.217627501,Islands
+95,eez,95,Falkland Islands,2005,0.375186559,Islands
+96,eez,96,Sierra Leone,2005,0.451230196,Africa
+97,eez,97,Liberia,2005,0.448166926,Africa
+98,eez,98,Togo,2005,0.424058126,Africa
+99,eez,99,Benin,2005,0.422664447,Africa
+100,eez,100,Republique du Congo,2005,0.584015785,Africa
+101,eez,101,Namibia,2005,0.389171256,Africa
+102,eez,102,South Africa,2005,0.483051596,Africa
+103,eez,103,Sao Tome and Principe,2005,0.438350215,Islands
+104,eez,104,Equatorial Guinea,2005,0.432970587,Africa
+105,eez,105,Bouvet Island,2005,0.267854294,Islands
+106,eez,106,Ghana,2005,0.431825627,Africa
+107,eez,107,Clipperton Island,2005,0.292968486,Islands
+108,eez,108,Bermuda,2005,0.506946167,Caribbean
+110,eez,110,Bahamas,2005,0.517009162,Caribbean
+111,eez,111,Turks and Caicos Islands,2005,0.500780313,Caribbean
+112,eez,112,Cuba,2005,0.519680541,Caribbean
+113,eez,113,Cayman Islands,2005,0.523542027,Caribbean
+114,eez,114,Haiti,2005,0.525785799,Caribbean
+115,eez,115,Dominican Republic,2005,0.519636853,Caribbean
+117,eez,117,British Virgin Islands,2005,0.52473047,Caribbean
+118,eez,118,Anguilla,2005,0.539938356,Caribbean
+119,eez,119,Saint Kitts and Nevis,2005,0.550246776,Caribbean
+120,eez,120,Antigua and Barbuda,2005,0.547245241,Caribbean
+121,eez,121,Montserrat,2005,0.550119759,Caribbean
+122,eez,122,Saint Lucia,2005,0.541482135,Caribbean
+123,eez,123,Dominica,2005,0.550588036,Caribbean
+124,eez,124,Barbados,2005,0.542203042,Caribbean
+125,eez,125,Grenada,2005,0.516899867,Caribbean
+126,eez,126,Trinidad and Tobago,2005,0.514720074,Caribbean
+127,eez,127,Saint Vincent and the Grenadines,2005,0.531175451,Caribbean
+129,eez,129,Panama,2005,0.330817417,Central America
+130,eez,130,Costa Rica,2005,0.16519503,Central America
+131,eez,131,Nicaragua,2005,0.412902642,Central America
+132,eez,132,Colombia,2005,0.354620579,South America
+133,eez,133,Honduras,2005,0.514113488,Central America
+134,eez,134,El Salvador,2005,0.183053163,Central America
+135,eez,135,Mexico,2005,0.428204358,North America
+136,eez,136,Guatemala,2005,0.187938589,Central America
+137,eez,137,Ecuador,2005,0.152713378,South America
+138,eez,138,Peru,2005,0.146794741,South America
+139,eez,139,Venezuela,2005,0.513217027,South America
+141,eez,141,Faeroe Islands,2005,0.387270064,Europe
+143,eez,143,Iceland,2005,0.416935385,Europe
+144,eez,144,Jan Mayen,2005,0.504572896,Europe
+145,eez,145,Greenland,2005,0.431093787,Europe
+146,eez,146,Pitcairn,2005,0.58315577,Oceania
+147,eez,147,French Polynesia,2005,0.5271189,Oceania
+148,eez,148,Line Group,2005,0.333057017,Oceania
+149,eez,149,Jarvis Island,2005,0.172573169,Oceania
+150,eez,150,Palmyra Atoll,2005,0.424877544,Oceania
+151,eez,151,American Samoa,2005,0.539586018,Oceania
+152,eez,152,Samoa,2005,0.540999287,Oceania
+153,eez,153,Cook Islands,2005,0.526377906,Oceania
+154,eez,154,Niue,2005,0.577369092,Oceania
+155,eez,155,Tonga,2005,0.580868063,Oceania
+156,eez,156,Tokelau,2005,0.463804367,Oceania
+157,eez,157,Phoenix Group,2005,0.287160432,Oceania
+158,eez,158,Howland Island and Baker Island,2005,0.192141379,Oceania
+159,eez,159,Johnston Atoll,2005,0.467569532,Oceania
+161,eez,161,Wallis and Futuna,2005,0.539671279,Oceania
+162,eez,162,New Zealand,2005,0.45934583,Oceania
+163,eez,163,United States,2005,0.396976091,North America
+164,eez,164,Belize,2005,0.506864829,Central America
+166,eez,166,Jamaica,2005,0.522428413,Caribbean
+167,eez,167,Guyana,2005,0.513325242,South America
+168,eez,168,Suriname,2005,0.509000133,South America
+169,eez,169,French Guiana,2005,0.496402757,South America
+171,eez,171,Brazil,2005,0.488787971,South America
+172,eez,172,Argentina,2005,0.41918875,South America
+173,eez,173,Uruguay,2005,0.55030945,South America
+174,eez,174,Finland,2005,0.397910201,Europe
+175,eez,175,Denmark,2005,0.38529919,Europe
+176,eez,176,Germany,2005,0.383624476,Europe
+177,eez,177,Netherlands,2005,0.388271502,Europe
+178,eez,178,Poland,2005,0.374010849,Europe
+179,eez,179,France,2005,0.445385432,Europe
+180,eez,180,United Kingdom,2005,0.404099674,Europe
+181,eez,181,Ireland,2005,0.384301969,Europe
+182,eez,182,Spain,2005,0.476544844,Europe
+183,eez,183,Portugal,2005,0.499900622,Europe
+184,eez,184,Italy,2005,0.486895644,Europe
+185,eez,185,Monaco,2005,0.497000009,Europe
+186,eez,186,Montenegro,2005,0.372999996,Europe
+187,eez,187,Croatia,2005,0.372999996,Europe
+188,eez,188,Slovenia,2005,0.372999996,Europe
+189,eez,189,Lithuania,2005,0.374000013,Europe
+190,eez,190,Qatar,2005,0.509894553,Middle East
+191,eez,191,Iran,2005,0.503894559,Middle East
+192,eez,192,Iraq,2005,0.518999994,Middle East
+193,eez,193,Guinea Bissau,2005,0.447549425,Africa
+194,eez,194,Guinea,2005,0.448650989,Africa
+195,eez,195,Ivory Coast,2005,0.442200748,Africa
+196,eez,196,Nigeria,2005,0.430115745,Africa
+197,eez,197,Cameroon,2005,0.469877879,Africa
+198,eez,198,Gabon,2005,0.46926155,Africa
+199,eez,199,Democratic Republic of the Congo,2005,0.635346241,Africa
+200,eez,200,Angola,2005,0.463304673,Africa
+202,eez,202,Tanzania,2005,0.479753484,Africa
+203,eez,203,India,2005,0.504424074,Asia
+204,eez,204,Bangladesh,2005,0.470258361,Asia
+205,eez,205,Myanmar,2005,0.498386739,Asia
+206,eez,206,Malaysia,2005,0.594877761,Asia
+207,eez,207,Vietnam,2005,0.624845412,Asia
+208,eez,208,Singapore,2005,0.692287049,Asia
+209,eez,209,China,2005,0.508667849,Asia
+210,eez,210,Japan,2005,0.576270832,Asia
+212,eez,212,Kiribati,2005,0.28198755,Oceania
+214,eez,214,Egypt,2005,0.501282171,Africa
+215,eez,215,Jordan,2005,0.518999994,Middle East
+216,eez,216,Indonesia,2005,0.536568031,Asia
+218,eez,218,Canada,2005,0.561100044,North America
+219,eez,219,Saint Pierre and Miquelon,2005,0.006140809,North America
+220,eez,220,Sint Maarten,2005,0.550000012,Caribbean
+221,eez,221,Northern Saint-Martin,2005,0.55017692,Caribbean
+222,eez,222,Sweden,2005,0.39191148,Europe
+223,eez,223,Norway,2005,0.455539974,Europe
+224,eez,224,Chile,2005,0.350936115,South America
+227,eez,227,Jersey,2005,0.420441814,Islands
+228,eez,228,Guernsey,2005,0.418733675,Islands
+231,eez,231,East Timor,2005,0.507530546,Oceania
+232,eez,232,Bosnia and Herzegovina,2005,0.372999996,Europe
+237,eez,237,Oecussi Ambeno,2005,0.501272399,Asia
+244,eez,244,Curacao,2005,0.51237965,Caribbean
+245,eez,245,Bonaire,2005,0.504118467,Caribbean
+247,eez,247,Brunei,2005,0.586928032,Asia
+248,eez,248,Saba,2005,0.551299055,Caribbean
+249,eez,249,Sint Eustatius,2005,0.550769503,Caribbean
+250,eez,250,Aruba,2005,0.510392965,Caribbean
+251,eez,140,Guadeloupe and Martinique,2005,0.550783903,Caribbean
+255,eez,116,Puerto Rico and Virgin Islands of the United States,2005,0.52997843,Caribbean
+1018,fao,260,Arctic Sea,2005,0.439856984,Arctic
+1021,fao,261,"Atlantic, Northwest",2005,0.400802024,"Atlantic, Northwest"
+1027,fao,262,"Atlantic, Northeast",2005,0.469287821,"Atlantic, Northeast"
+1031,fao,263,"Atlantic, Western-Central",2005,0.521278408,"Atlantic, Western-Central"
+1034,fao,264,"Atlantic, Eastern Central",2005,0.478627505,"Atlantic, Eastern Central"
+1041,fao,266,"Atlantic, Southwest",2005,0.447238104,"Atlantic, Southwest"
+1047,fao,267,"Atlantic, Southeast",2005,0.413096075,"Atlantic, Southeast"
+1051,fao,269,"Indian Ocean, Western",2005,0.496288139,"Indian Ocean, Western"
+1057,fao,270,"Indian Ocean, Eastern",2005,0.455448887,"Indian Ocean, Eastern"
+1061,fao,272,"Pacific, Northwest",2005,0.540413179,"Pacific, Northwest"
+1067,fao,273,"Pacific, Northeast",2005,0.397869507,"Pacific, Northeast"
+1071,fao,274,"Pacific, Western Central",2005,0.478541828,"Pacific, Western Central"
+1077,fao,275,"Pacific, Eastern Central",2005,0.388126817,"Pacific, Eastern Central"
+1081,fao,276,"Pacific, Southwest",2005,0.450016875,"Pacific, Southwest"
+1087,fao,277,"Pacific, Southeast",2005,0.352678266,"Pacific, Southeast"
+248100,eez-ccamlr,213,Antarctica,2005,0.304526527,Antarctica
+248200,eez-ccamlr,213,Antarctica,2005,0.338232404,Antarctica
+248300,eez-ccamlr,213,Antarctica,2005,0.388032022,Antarctica
+248400,eez-ccamlr,213,Antarctica,2005,0.346855325,Antarctica
+248500,eez-ccamlr,213,Antarctica,2005,0.212722621,Antarctica
+248600,eez-ccamlr,213,Antarctica,2005,0.270171528,Antarctica
+258410,eez-ccamlr,213,Antarctica,2005,0.26541475,Antarctica
+258420,eez-ccamlr,213,Antarctica,2005,0.251622647,Antarctica
+258431,eez-ccamlr,213,Antarctica,2005,0.253038904,Antarctica
+258432,eez-ccamlr,213,Antarctica,2005,0.235052627,Antarctica
+258441,eez-ccamlr,213,Antarctica,2005,0.259662508,Antarctica
+258442,eez-ccamlr,213,Antarctica,2005,0.264219225,Antarctica
+258510,eez-ccamlr,213,Antarctica,2005,0.248854474,Antarctica
+258520,eez-ccamlr,213,Antarctica,2005,0.239231255,Antarctica
+258600,eez-ccamlr,213,Antarctica,2005,0.2689701,Antarctica
+258700,eez-ccamlr,213,Antarctica,2005,0.301384162,Antarctica
+288100,eez-ccamlr,213,Antarctica,2005,0.221179151,Antarctica
+288200,eez-ccamlr,213,Antarctica,2005,0.270555596,Antarctica
+288300,eez-ccamlr,213,Antarctica,2005,0.298235765,Antarctica
+0,eez,16,Australia,2006,0.525726299,Oceania
+1,eez,1,Cocos Islands,2006,0.46001849,Oceania
+2,eez,2,Christmas Island,2006,0.45401695,Oceania
+3,eez,3,Norfolk Island,2006,0.551642665,Oceania
+4,eez,4,Macquarie Island,2006,0.319824952,Oceania
+5,eez,5,New Caledonia,2006,0.576395715,Oceania
+6,eez,6,Vanuatu,2006,0.585658421,Oceania
+7,eez,7,Solomon Islands,2006,0.56145375,Oceania
+8,eez,8,Palau,2006,0.551048817,Oceania
+9,eez,9,Micronesia,2006,0.499632653,Oceania
+10,eez,10,Nauru,2006,0.371308782,Oceania
+11,eez,11,Marshall Islands,2006,0.482731838,Oceania
+12,eez,12,Wake Island,2006,0.509933557,Oceania
+13,eez,13,Northern Mariana Islands and Guam,2006,0.508549204,Oceania
+14,eez,14,Taiwan,2006,0.571334013,Asia
+15,eez,15,Philippines,2006,0.526437794,Asia
+17,eez,17,Papua New Guinea,2006,0.529328976,Oceania
+18,eez,18,Fiji,2006,0.574782811,Oceania
+19,eez,19,Tuvalu,2006,0.49426011,Oceania
+20,eez,20,South Korea,2006,0.518576291,Asia
+21,eez,21,North Korea,2006,0.512651178,Asia
+24,eez,24,Cambodia,2006,0.55581459,Asia
+25,eez,25,Thailand,2006,0.528896847,Asia
+26,eez,26,Andaman and Nicobar,2006,0.464719775,Islands
+28,eez,28,Comoro Islands,2006,0.50450673,Islands
+29,eez,29,Mayotte,2006,0.513899276,Islands
+30,eez,30,Glorioso Islands,2006,0.497900986,Islands
+31,eez,31,Seychelles,2006,0.486834132,Islands
+32,eez,32,Reunion,2006,0.554119567,Islands
+33,eez,33,Juan de Nova Island,2006,0.515818798,Islands
+34,eez,34,Bassas da India,2006,0.508922989,Islands
+35,eez,35,Ile Europa,2006,0.515849392,Islands
+36,eez,36,Ile Tromelin,2006,0.495425557,Islands
+37,eez,37,Mauritius,2006,0.508268151,Islands
+38,eez,38,British Indian Ocean Territory,2006,0.478195868,Islands
+39,eez,39,Maldives,2006,0.462066581,Islands
+40,eez,40,Sri Lanka,2006,0.459738036,Asia
+41,eez,41,Mozambique,2006,0.505948544,Africa
+42,eez,42,Madagascar,2006,0.528501182,Africa
+43,eez,43,Kenya,2006,0.492652463,Africa
+44,eez,44,Somalia,2006,0.469238241,Africa
+45,eez,45,Eritrea,2006,0.416999996,Africa
+46,eez,46,Djibouti,2006,0.416064348,Africa
+47,eez,47,Yemen,2006,0.436369479,Middle East
+48,eez,48,Oman,2006,0.452900955,Middle East
+49,eez,49,Sudan,2006,0.416999996,Africa
+50,eez,50,Saudi Arabia,2006,0.436584859,Middle East
+51,eez,51,Kuwait,2006,0.488999993,Middle East
+52,eez,52,Bahrain,2006,0.482893186,Middle East
+53,eez,53,Pakistan,2006,0.490790029,Asia
+54,eez,54,United Arab Emirates,2006,0.459969144,Middle East
+55,eez,55,Azores,2006,0.44015499,Islands
+56,eez,56,Cape Verde,2006,0.434267552,Islands
+57,eez,57,Madeira,2006,0.518266063,Islands
+58,eez,58,Canary Islands,2006,0.52556364,Islands
+59,eez,59,Belgium,2006,0.379580285,Europe
+60,eez,60,Gibraltar,2006,0.513000011,Europe
+61,eez,61,Tunisia,2006,0.48019553,Africa
+62,eez,62,Morocco,2006,0.513204039,Africa
+63,eez,63,Western Sahara,2006,0.447491415,Africa
+64,eez,64,Mauritania,2006,0.368627088,Africa
+65,eez,65,Gambia,2006,0.375970516,Africa
+66,eez,66,Senegal,2006,0.382623652,Africa
+67,eez,67,Libya,2006,0.480229828,Africa
+68,eez,68,Malta,2006,0.479999989,Europe
+69,eez,69,Latvia,2006,0.40200001,Europe
+70,eez,70,Estonia,2006,0.403668118,Europe
+71,eez,71,Bulgaria,2006,0.411000013,Europe
+72,eez,72,Romania,2006,0.411000013,Europe
+73,eez,73,Russia,2006,0.53303905,Europe
+74,eez,74,Georgia,2006,0.44970756,Europe
+75,eez,75,Ukraine,2006,0.41311915,Europe
+76,eez,76,Turkey,2006,0.43598643,Europe
+77,eez,77,Syria,2006,0.488999993,Middle East
+78,eez,78,Lebanon,2006,0.488999993,Middle East
+79,eez,79,Israel,2006,0.488999993,Middle East
+80,eez,80,Greece,2006,0.464050999,Europe
+81,eez,81,Cyprus,2006,0.488999993,Europe
+82,eez,82,Albania,2006,0.429112032,Europe
+84,eez,84,Algeria,2006,0.49307898,Africa
+85,eez,85,Ascension,2006,0.431401742,Islands
+86,eez,86,Saint Helena,2006,0.488284276,Islands
+88,eez,88,Tristan da Cunha,2006,0.382154812,Islands
+89,eez,89,South Georgia and the South Sandwich Islands,2006,0.311061225,Islands
+90,eez,90,Prince Edward Islands,2006,0.306533271,Islands
+91,eez,91,Crozet Islands,2006,0.321189309,Islands
+92,eez,92,Amsterdam Island and Saint Paul Island,2006,0.420216935,Islands
+93,eez,93,Kerguelen Islands,2006,0.257632481,Islands
+94,eez,94,Heard and McDonald Islands,2006,0.251946716,Islands
+95,eez,95,Falkland Islands,2006,0.35688955,Islands
+96,eez,96,Sierra Leone,2006,0.442884754,Africa
+97,eez,97,Liberia,2006,0.432428577,Africa
+98,eez,98,Togo,2006,0.402357885,Africa
+99,eez,99,Benin,2006,0.39959303,Africa
+100,eez,100,Republique du Congo,2006,0.689505401,Africa
+101,eez,101,Namibia,2006,0.28920909,Africa
+102,eez,102,South Africa,2006,0.496356972,Africa
+103,eez,103,Sao Tome and Principe,2006,0.420923283,Islands
+104,eez,104,Equatorial Guinea,2006,0.445721623,Africa
+105,eez,105,Bouvet Island,2006,0.27478883,Islands
+106,eez,106,Ghana,2006,0.409777049,Africa
+107,eez,107,Clipperton Island,2006,0.311158345,Islands
+108,eez,108,Bermuda,2006,0.523234434,Caribbean
+110,eez,110,Bahamas,2006,0.555495484,Caribbean
+111,eez,111,Turks and Caicos Islands,2006,0.525625575,Caribbean
+112,eez,112,Cuba,2006,0.549546112,Caribbean
+113,eez,113,Cayman Islands,2006,0.540672861,Caribbean
+114,eez,114,Haiti,2006,0.547785428,Caribbean
+115,eez,115,Dominican Republic,2006,0.528937659,Caribbean
+117,eez,117,British Virgin Islands,2006,0.529978821,Caribbean
+118,eez,118,Anguilla,2006,0.535157443,Caribbean
+119,eez,119,Saint Kitts and Nevis,2006,0.536462154,Caribbean
+120,eez,120,Antigua and Barbuda,2006,0.536952425,Caribbean
+121,eez,121,Montserrat,2006,0.537519856,Caribbean
+122,eez,122,Saint Lucia,2006,0.525532676,Caribbean
+123,eez,123,Dominica,2006,0.536570424,Caribbean
+124,eez,124,Barbados,2006,0.528021491,Caribbean
+125,eez,125,Grenada,2006,0.504799121,Caribbean
+126,eez,126,Trinidad and Tobago,2006,0.504003743,Caribbean
+127,eez,127,Saint Vincent and the Grenadines,2006,0.517924624,Caribbean
+129,eez,129,Panama,2006,0.416986467,Central America
+130,eez,130,Costa Rica,2006,0.34975864,Central America
+131,eez,131,Nicaragua,2006,0.482632128,Central America
+132,eez,132,Colombia,2006,0.412646778,South America
+133,eez,133,Honduras,2006,0.534562511,Central America
+134,eez,134,El Salvador,2006,0.339936048,Central America
+135,eez,135,Mexico,2006,0.450740336,North America
+136,eez,136,Guatemala,2006,0.327936924,Central America
+137,eez,137,Ecuador,2006,0.250978593,South America
+138,eez,138,Peru,2006,0.190707019,South America
+139,eez,139,Venezuela,2006,0.498515827,South America
+141,eez,141,Faeroe Islands,2006,0.325044963,Europe
+143,eez,143,Iceland,2006,0.361092267,Europe
+144,eez,144,Jan Mayen,2006,0.480518016,Europe
+145,eez,145,Greenland,2006,0.449123238,Europe
+146,eez,146,Pitcairn,2006,0.602021156,Oceania
+147,eez,147,French Polynesia,2006,0.562589998,Oceania
+148,eez,148,Line Group,2006,0.411957175,Oceania
+149,eez,149,Jarvis Island,2006,0.33767174,Oceania
+150,eez,150,Palmyra Atoll,2006,0.444804352,Oceania
+151,eez,151,American Samoa,2006,0.561532478,Oceania
+152,eez,152,Samoa,2006,0.549369256,Oceania
+153,eez,153,Cook Islands,2006,0.56225915,Oceania
+154,eez,154,Niue,2006,0.58312642,Oceania
+155,eez,155,Tonga,2006,0.578323464,Oceania
+156,eez,156,Tokelau,2006,0.510211159,Oceania
+157,eez,157,Phoenix Group,2006,0.41011594,Oceania
+158,eez,158,Howland Island and Baker Island,2006,0.371827917,Oceania
+159,eez,159,Johnston Atoll,2006,0.493368875,Oceania
+161,eez,161,Wallis and Futuna,2006,0.548189924,Oceania
+162,eez,162,New Zealand,2006,0.437603077,Oceania
+163,eez,163,United States,2006,0.419328736,North America
+164,eez,164,Belize,2006,0.540554515,Central America
+166,eez,166,Jamaica,2006,0.53184018,Caribbean
+167,eez,167,Guyana,2006,0.503064257,South America
+168,eez,168,Suriname,2006,0.503203291,South America
+169,eez,169,French Guiana,2006,0.504735538,South America
+171,eez,171,Brazil,2006,0.478402467,South America
+172,eez,172,Argentina,2006,0.400028459,South America
+173,eez,173,Uruguay,2006,0.531349617,South America
+174,eez,174,Finland,2006,0.402908058,Europe
+175,eez,175,Denmark,2006,0.425266361,Europe
+176,eez,176,Germany,2006,0.422114997,Europe
+177,eez,177,Netherlands,2006,0.424530294,Europe
+178,eez,178,Poland,2006,0.402097533,Europe
+179,eez,179,France,2006,0.450820353,Europe
+180,eez,180,United Kingdom,2006,0.400754029,Europe
+181,eez,181,Ireland,2006,0.410283013,Europe
+182,eez,182,Spain,2006,0.467775649,Europe
+183,eez,183,Portugal,2006,0.496655011,Europe
+184,eez,184,Italy,2006,0.475273755,Europe
+185,eez,185,Monaco,2006,0.479999989,Europe
+186,eez,186,Montenegro,2006,0.421999991,Europe
+187,eez,187,Croatia,2006,0.421999991,Europe
+188,eez,188,Slovenia,2006,0.421999991,Europe
+189,eez,189,Lithuania,2006,0.40200001,Europe
+190,eez,190,Qatar,2006,0.472877406,Middle East
+191,eez,191,Iran,2006,0.479774637,Middle East
+192,eez,192,Iraq,2006,0.488999993,Middle East
+193,eez,193,Guinea Bissau,2006,0.417414402,Africa
+194,eez,194,Guinea,2006,0.427041161,Africa
+195,eez,195,Ivory Coast,2006,0.418678988,Africa
+196,eez,196,Nigeria,2006,0.401808762,Africa
+197,eez,197,Cameroon,2006,0.438946722,Africa
+198,eez,198,Gabon,2006,0.513362212,Africa
+199,eez,199,Democratic Republic of the Congo,2006,0.756446909,Africa
+200,eez,200,Angola,2006,0.48033946,Africa
+202,eez,202,Tanzania,2006,0.498111781,Africa
+203,eez,203,India,2006,0.479909431,Asia
+204,eez,204,Bangladesh,2006,0.507901514,Asia
+205,eez,205,Myanmar,2006,0.465348699,Asia
+206,eez,206,Malaysia,2006,0.55424432,Asia
+207,eez,207,Vietnam,2006,0.568743206,Asia
+208,eez,208,Singapore,2006,0.707484105,Asia
+209,eez,209,China,2006,0.50348482,Asia
+210,eez,210,Japan,2006,0.551769348,Asia
+212,eez,212,Kiribati,2006,0.377606756,Oceania
+214,eez,214,Egypt,2006,0.477384399,Africa
+215,eez,215,Jordan,2006,0.488999993,Middle East
+216,eez,216,Indonesia,2006,0.501335686,Asia
+218,eez,218,Canada,2006,0.577164518,North America
+219,eez,219,Saint Pierre and Miquelon,2006,0.086892876,North America
+220,eez,220,Sint Maarten,2006,0.535000026,Caribbean
+221,eez,221,Northern Saint-Martin,2006,0.535249942,Caribbean
+222,eez,222,Sweden,2006,0.40137917,Europe
+223,eez,223,Norway,2006,0.42448203,Europe
+224,eez,224,Chile,2006,0.331347124,South America
+227,eez,227,Jersey,2006,0.424441822,Islands
+228,eez,228,Guernsey,2006,0.425448104,Islands
+231,eez,231,East Timor,2006,0.461591689,Oceania
+232,eez,232,Bosnia and Herzegovina,2006,0.421999991,Europe
+237,eez,237,Oecussi Ambeno,2006,0.486909186,Asia
+244,eez,244,Curacao,2006,0.501623109,Caribbean
+245,eez,245,Bonaire,2006,0.492543155,Caribbean
+247,eez,247,Brunei,2006,0.496158291,Asia
+248,eez,248,Saba,2006,0.535230906,Caribbean
+249,eez,249,Sint Eustatius,2006,0.535938782,Caribbean
+250,eez,250,Aruba,2006,0.501823763,Caribbean
+251,eez,140,Guadeloupe and Martinique,2006,0.536713733,Caribbean
+255,eez,116,Puerto Rico and Virgin Islands of the United States,2006,0.528166718,Caribbean
+1018,fao,260,Arctic Sea,2006,0.430494574,Arctic
+1021,fao,261,"Atlantic, Northwest",2006,0.418397596,"Atlantic, Northwest"
+1027,fao,262,"Atlantic, Northeast",2006,0.484437714,"Atlantic, Northeast"
+1031,fao,263,"Atlantic, Western-Central",2006,0.522571346,"Atlantic, Western-Central"
+1034,fao,264,"Atlantic, Eastern Central",2006,0.470226052,"Atlantic, Eastern Central"
+1041,fao,266,"Atlantic, Southwest",2006,0.442397142,"Atlantic, Southwest"
+1047,fao,267,"Atlantic, Southeast",2006,0.418334756,"Atlantic, Southeast"
+1051,fao,269,"Indian Ocean, Western",2006,0.492808319,"Indian Ocean, Western"
+1057,fao,270,"Indian Ocean, Eastern",2006,0.436886356,"Indian Ocean, Eastern"
+1061,fao,272,"Pacific, Northwest",2006,0.548528251,"Pacific, Northwest"
+1067,fao,273,"Pacific, Northeast",2006,0.400735647,"Pacific, Northeast"
+1071,fao,274,"Pacific, Western Central",2006,0.49351221,"Pacific, Western Central"
+1077,fao,275,"Pacific, Eastern Central",2006,0.416592962,"Pacific, Eastern Central"
+1081,fao,276,"Pacific, Southwest",2006,0.448948289,"Pacific, Southwest"
+1087,fao,277,"Pacific, Southeast",2006,0.365060057,"Pacific, Southeast"
+248100,eez-ccamlr,213,Antarctica,2006,0.290842726,Antarctica
+248200,eez-ccamlr,213,Antarctica,2006,0.335555112,Antarctica
+248300,eez-ccamlr,213,Antarctica,2006,0.326297344,Antarctica
+248400,eez-ccamlr,213,Antarctica,2006,0.277015657,Antarctica
+248500,eez-ccamlr,213,Antarctica,2006,0.170311056,Antarctica
+248600,eez-ccamlr,213,Antarctica,2006,0.272262758,Antarctica
+258410,eez-ccamlr,213,Antarctica,2006,0.268396652,Antarctica
+258420,eez-ccamlr,213,Antarctica,2006,0.266972625,Antarctica
+258431,eez-ccamlr,213,Antarctica,2006,0.255824266,Antarctica
+258432,eez-ccamlr,213,Antarctica,2006,0.254441769,Antarctica
+258441,eez-ccamlr,213,Antarctica,2006,0.299771621,Antarctica
+258442,eez-ccamlr,213,Antarctica,2006,0.290817405,Antarctica
+258510,eez-ccamlr,213,Antarctica,2006,0.300791267,Antarctica
+258520,eez-ccamlr,213,Antarctica,2006,0.264290802,Antarctica
+258600,eez-ccamlr,213,Antarctica,2006,0.315862171,Antarctica
+258700,eez-ccamlr,213,Antarctica,2006,0.324183527,Antarctica
+288100,eez-ccamlr,213,Antarctica,2006,0.22255695,Antarctica
+288200,eez-ccamlr,213,Antarctica,2006,0.282035886,Antarctica
+288300,eez-ccamlr,213,Antarctica,2006,0.267040687,Antarctica
+0,eez,16,Australia,2007,0.548942111,Oceania
+1,eez,1,Cocos Islands,2007,0.506791053,Oceania
+2,eez,2,Christmas Island,2007,0.508113471,Oceania
+3,eez,3,Norfolk Island,2007,0.575747493,Oceania
+4,eez,4,Macquarie Island,2007,0.318320332,Oceania
+5,eez,5,New Caledonia,2007,0.627036516,Oceania
+6,eez,6,Vanuatu,2007,0.59934605,Oceania
+7,eez,7,Solomon Islands,2007,0.553315156,Oceania
+8,eez,8,Palau,2007,0.602274499,Oceania
+9,eez,9,Micronesia,2007,0.522740911,Oceania
+10,eez,10,Nauru,2007,0.388964711,Oceania
+11,eez,11,Marshall Islands,2007,0.503419825,Oceania
+12,eez,12,Wake Island,2007,0.499100012,Oceania
+13,eez,13,Northern Mariana Islands and Guam,2007,0.50160193,Oceania
+14,eez,14,Taiwan,2007,0.578486639,Asia
+15,eez,15,Philippines,2007,0.584803409,Asia
+17,eez,17,Papua New Guinea,2007,0.550615063,Oceania
+18,eez,18,Fiji,2007,0.593238599,Oceania
+19,eez,19,Tuvalu,2007,0.507101779,Oceania
+20,eez,20,South Korea,2007,0.463875046,Asia
+21,eez,21,North Korea,2007,0.453497212,Asia
+24,eez,24,Cambodia,2007,0.553907857,Asia
+25,eez,25,Thailand,2007,0.504286361,Asia
+26,eez,26,Andaman and Nicobar,2007,0.409531425,Islands
+28,eez,28,Comoro Islands,2007,0.540125803,Islands
+29,eez,29,Mayotte,2007,0.540659467,Islands
+30,eez,30,Glorioso Islands,2007,0.54286088,Islands
+31,eez,31,Seychelles,2007,0.526531897,Islands
+32,eez,32,Reunion,2007,0.559152142,Islands
+33,eez,33,Juan de Nova Island,2007,0.545777581,Islands
+34,eez,34,Bassas da India,2007,0.539764009,Islands
+35,eez,35,Ile Europa,2007,0.53622957,Islands
+36,eez,36,Ile Tromelin,2007,0.551292551,Islands
+37,eez,37,Mauritius,2007,0.554275398,Islands
+38,eez,38,British Indian Ocean Territory,2007,0.52013148,Islands
+39,eez,39,Maldives,2007,0.465861092,Islands
+40,eez,40,Sri Lanka,2007,0.447878799,Asia
+41,eez,41,Mozambique,2007,0.540545164,Africa
+42,eez,42,Madagascar,2007,0.540038736,Africa
+43,eez,43,Kenya,2007,0.517779959,Africa
+44,eez,44,Somalia,2007,0.4727967,Africa
+45,eez,45,Eritrea,2007,0.451990923,Africa
+46,eez,46,Djibouti,2007,0.451414528,Africa
+47,eez,47,Yemen,2007,0.467566626,Middle East
+48,eez,48,Oman,2007,0.501535663,Middle East
+49,eez,49,Sudan,2007,0.452970442,Africa
+50,eez,50,Saudi Arabia,2007,0.480283114,Middle East
+51,eez,51,Kuwait,2007,0.558000028,Middle East
+52,eez,52,Bahrain,2007,0.553166273,Middle East
+53,eez,53,Pakistan,2007,0.517622448,Asia
+54,eez,54,United Arab Emirates,2007,0.532334031,Middle East
+55,eez,55,Azores,2007,0.465621407,Islands
+56,eez,56,Cape Verde,2007,0.469227386,Islands
+57,eez,57,Madeira,2007,0.542762557,Islands
+58,eez,58,Canary Islands,2007,0.567946891,Islands
+59,eez,59,Belgium,2007,0.378194432,Europe
+60,eez,60,Gibraltar,2007,0.532999992,Europe
+61,eez,61,Tunisia,2007,0.496360199,Africa
+62,eez,62,Morocco,2007,0.544440253,Africa
+63,eez,63,Western Sahara,2007,0.493442593,Africa
+64,eez,64,Mauritania,2007,0.410113805,Africa
+65,eez,65,Gambia,2007,0.421711118,Africa
+66,eez,66,Senegal,2007,0.428075668,Africa
+67,eez,67,Libya,2007,0.496423379,Africa
+68,eez,68,Malta,2007,0.495999992,Europe
+69,eez,69,Latvia,2007,0.321999997,Europe
+70,eez,70,Estonia,2007,0.329430793,Europe
+71,eez,71,Bulgaria,2007,0.391000003,Europe
+72,eez,72,Romania,2007,0.391000003,Europe
+73,eez,73,Russia,2007,0.498347938,Europe
+74,eez,74,Georgia,2007,0.488027174,Europe
+75,eez,75,Ukraine,2007,0.406434198,Europe
+76,eez,76,Turkey,2007,0.451977979,Europe
+77,eez,77,Syria,2007,0.558000028,Middle East
+78,eez,78,Lebanon,2007,0.558000028,Middle East
+79,eez,79,Israel,2007,0.558000028,Middle East
+80,eez,80,Greece,2007,0.474158161,Europe
+81,eez,81,Cyprus,2007,0.558000028,Europe
+82,eez,82,Albania,2007,0.410016898,Europe
+84,eez,84,Algeria,2007,0.511403287,Africa
+85,eez,85,Ascension,2007,0.484789576,Islands
+86,eez,86,Saint Helena,2007,0.511230764,Islands
+88,eez,88,Tristan da Cunha,2007,0.415135463,Islands
+89,eez,89,South Georgia and the South Sandwich Islands,2007,0.314669235,Islands
+90,eez,90,Prince Edward Islands,2007,0.34503024,Islands
+91,eez,91,Crozet Islands,2007,0.355303411,Islands
+92,eez,92,Amsterdam Island and Saint Paul Island,2007,0.437805715,Islands
+93,eez,93,Kerguelen Islands,2007,0.285892587,Islands
+94,eez,94,Heard and McDonald Islands,2007,0.264135918,Islands
+95,eez,95,Falkland Islands,2007,0.351986951,Islands
+96,eez,96,Sierra Leone,2007,0.47869104,Africa
+97,eez,97,Liberia,2007,0.480332598,Africa
+98,eez,98,Togo,2007,0.461034487,Africa
+99,eez,99,Benin,2007,0.459148115,Africa
+100,eez,100,Republique du Congo,2007,0.429188169,Africa
+101,eez,101,Namibia,2007,0.432974568,Africa
+102,eez,102,South Africa,2007,0.502052471,Africa
+103,eez,103,Sao Tome and Principe,2007,0.464486088,Islands
+104,eez,104,Equatorial Guinea,2007,0.462877,Africa
+105,eez,105,Bouvet Island,2007,0.279750142,Islands
+106,eez,106,Ghana,2007,0.469166263,Africa
+107,eez,107,Clipperton Island,2007,0.410947715,Islands
+108,eez,108,Bermuda,2007,0.509606908,Caribbean
+110,eez,110,Bahamas,2007,0.556934089,Caribbean
+111,eez,111,Turks and Caicos Islands,2007,0.557854839,Caribbean
+112,eez,112,Cuba,2007,0.550612321,Caribbean
+113,eez,113,Cayman Islands,2007,0.549441248,Caribbean
+114,eez,114,Haiti,2007,0.576945965,Caribbean
+115,eez,115,Dominican Republic,2007,0.572644034,Caribbean
+117,eez,117,British Virgin Islands,2007,0.575354227,Caribbean
+118,eez,118,Anguilla,2007,0.582875152,Caribbean
+119,eez,119,Saint Kitts and Nevis,2007,0.589345763,Caribbean
+120,eez,120,Antigua and Barbuda,2007,0.588094531,Caribbean
+121,eez,121,Montserrat,2007,0.588635023,Caribbean
+122,eez,122,Saint Lucia,2007,0.576631017,Caribbean
+123,eez,123,Dominica,2007,0.587838064,Caribbean
+124,eez,124,Barbados,2007,0.580350724,Caribbean
+125,eez,125,Grenada,2007,0.550753943,Caribbean
+126,eez,126,Trinidad and Tobago,2007,0.545148926,Caribbean
+127,eez,127,Saint Vincent and the Grenadines,2007,0.566161027,Caribbean
+129,eez,129,Panama,2007,0.449278974,Central America
+130,eez,130,Costa Rica,2007,0.401465922,Central America
+131,eez,131,Nicaragua,2007,0.512267668,Central America
+132,eez,132,Colombia,2007,0.451796849,South America
+133,eez,133,Honduras,2007,0.549136414,Central America
+134,eez,134,El Salvador,2007,0.400592814,Central America
+135,eez,135,Mexico,2007,0.473213613,North America
+136,eez,136,Guatemala,2007,0.378870869,Central America
+137,eez,137,Ecuador,2007,0.289010457,South America
+138,eez,138,Peru,2007,0.227404453,South America
+139,eez,139,Venezuela,2007,0.558962982,South America
+141,eez,141,Faeroe Islands,2007,0.352606664,Europe
+143,eez,143,Iceland,2007,0.335682597,Europe
+144,eez,144,Jan Mayen,2007,0.410980099,Europe
+145,eez,145,Greenland,2007,0.439877868,Europe
+146,eez,146,Pitcairn,2007,0.591573395,Oceania
+147,eez,147,French Polynesia,2007,0.572803563,Oceania
+148,eez,148,Line Group,2007,0.43490183,Oceania
+149,eez,149,Jarvis Island,2007,0.37632514,Oceania
+150,eez,150,Palmyra Atoll,2007,0.475976094,Oceania
+151,eez,151,American Samoa,2007,0.559576139,Oceania
+152,eez,152,Samoa,2007,0.546165956,Oceania
+153,eez,153,Cook Islands,2007,0.573100458,Oceania
+154,eez,154,Niue,2007,0.591872327,Oceania
+155,eez,155,Tonga,2007,0.587775398,Oceania
+156,eez,156,Tokelau,2007,0.520203153,Oceania
+157,eez,157,Phoenix Group,2007,0.42806943,Oceania
+158,eez,158,Howland Island and Baker Island,2007,0.401849516,Oceania
+159,eez,159,Johnston Atoll,2007,0.470458045,Oceania
+161,eez,161,Wallis and Futuna,2007,0.533004437,Oceania
+162,eez,162,New Zealand,2007,0.455708665,Oceania
+163,eez,163,United States,2007,0.406932178,North America
+164,eez,164,Belize,2007,0.550945773,Central America
+166,eez,166,Jamaica,2007,0.567946106,Caribbean
+167,eez,167,Guyana,2007,0.542018874,South America
+168,eez,168,Suriname,2007,0.541959985,South America
+169,eez,169,French Guiana,2007,0.540122546,South America
+171,eez,171,Brazil,2007,0.518734737,South America
+172,eez,172,Argentina,2007,0.384213293,South America
+173,eez,173,Uruguay,2007,0.54239724,South America
+174,eez,174,Finland,2007,0.354858722,Europe
+175,eez,175,Denmark,2007,0.37095862,Europe
+176,eez,176,Germany,2007,0.38981419,Europe
+177,eez,177,Netherlands,2007,0.40013515,Europe
+178,eez,178,Poland,2007,0.322747672,Europe
+179,eez,179,France,2007,0.481662925,Europe
+180,eez,180,United Kingdom,2007,0.408580441,Europe
+181,eez,181,Ireland,2007,0.425089617,Europe
+182,eez,182,Spain,2007,0.501179173,Europe
+183,eez,183,Portugal,2007,0.520774876,Europe
+184,eez,184,Italy,2007,0.488014286,Europe
+185,eez,185,Monaco,2007,0.495999992,Europe
+186,eez,186,Montenegro,2007,0.398000002,Europe
+187,eez,187,Croatia,2007,0.398000002,Europe
+188,eez,188,Slovenia,2007,0.398000002,Europe
+189,eez,189,Lithuania,2007,0.321999997,Europe
+190,eez,190,Qatar,2007,0.544259656,Middle East
+191,eez,191,Iran,2007,0.542861676,Middle East
+192,eez,192,Iraq,2007,0.558000028,Middle East
+193,eez,193,Guinea Bissau,2007,0.456926462,Africa
+194,eez,194,Guinea,2007,0.469961947,Africa
+195,eez,195,Ivory Coast,2007,0.475698208,Africa
+196,eez,196,Nigeria,2007,0.463050623,Africa
+197,eez,197,Cameroon,2007,0.456553004,Africa
+198,eez,198,Gabon,2007,0.453191716,Africa
+199,eez,199,Democratic Republic of the Congo,2007,0.416402226,Africa
+200,eez,200,Angola,2007,0.416132031,Africa
+202,eez,202,Tanzania,2007,0.532417526,Africa
+203,eez,203,India,2007,0.494091469,Asia
+204,eez,204,Bangladesh,2007,0.411026098,Asia
+205,eez,205,Myanmar,2007,0.404986767,Asia
+206,eez,206,Malaysia,2007,0.592226266,Asia
+207,eez,207,Vietnam,2007,0.602924668,Asia
+208,eez,208,Singapore,2007,0.649085983,Asia
+209,eez,209,China,2007,0.492912133,Asia
+210,eez,210,Japan,2007,0.539572846,Asia
+212,eez,212,Kiribati,2007,0.404094929,Oceania
+214,eez,214,Egypt,2007,0.53621112,Africa
+215,eez,215,Jordan,2007,0.558000028,Middle East
+216,eez,216,Indonesia,2007,0.529948268,Asia
+218,eez,218,Canada,2007,0.587274725,North America
+219,eez,219,Saint Pierre and Miquelon,2007,0.140224913,North America
+220,eez,220,Sint Maarten,2007,0.591000021,Caribbean
+221,eez,221,Northern Saint-Martin,2007,0.590788467,Caribbean
+222,eez,222,Sweden,2007,0.341609867,Europe
+223,eez,223,Norway,2007,0.425488022,Europe
+224,eez,224,Chile,2007,0.376278483,South America
+227,eez,227,Jersey,2007,0.434779086,Islands
+228,eez,228,Guernsey,2007,0.435101163,Islands
+231,eez,231,East Timor,2007,0.501508394,Oceania
+232,eez,232,Bosnia and Herzegovina,2007,0.398000002,Europe
+237,eez,237,Oecussi Ambeno,2007,0.501999974,Asia
+244,eez,244,Curacao,2007,0.563177088,Caribbean
+245,eez,245,Bonaire,2007,0.559080682,Caribbean
+247,eez,247,Brunei,2007,0.621984682,Asia
+248,eez,248,Saba,2007,0.589893959,Caribbean
+249,eez,249,Sint Eustatius,2007,0.589665345,Caribbean
+250,eez,250,Aruba,2007,0.562411543,Caribbean
+251,eez,140,Guadeloupe and Martinique,2007,0.589241588,Caribbean
+255,eez,116,Puerto Rico and Virgin Islands of the United States,2007,0.57625702,Caribbean
+1018,fao,260,Arctic Sea,2007,0.412932881,Arctic
+1021,fao,261,"Atlantic, Northwest",2007,0.406289469,"Atlantic, Northwest"
+1027,fao,262,"Atlantic, Northeast",2007,0.481929222,"Atlantic, Northeast"
+1031,fao,263,"Atlantic, Western-Central",2007,0.545982396,"Atlantic, Western-Central"
+1034,fao,264,"Atlantic, Eastern Central",2007,0.508611882,"Atlantic, Eastern Central"
+1041,fao,266,"Atlantic, Southwest",2007,0.464506443,"Atlantic, Southwest"
+1047,fao,267,"Atlantic, Southeast",2007,0.451755669,"Atlantic, Southeast"
+1051,fao,269,"Indian Ocean, Western",2007,0.50738469,"Indian Ocean, Western"
+1057,fao,270,"Indian Ocean, Eastern",2007,0.452877879,"Indian Ocean, Eastern"
+1061,fao,272,"Pacific, Northwest",2007,0.543736119,"Pacific, Northwest"
+1067,fao,273,"Pacific, Northeast",2007,0.359863562,"Pacific, Northeast"
+1071,fao,274,"Pacific, Western Central",2007,0.499210576,"Pacific, Western Central"
+1077,fao,275,"Pacific, Eastern Central",2007,0.447371529,"Pacific, Eastern Central"
+1081,fao,276,"Pacific, Southwest",2007,0.47201769,"Pacific, Southwest"
+1087,fao,277,"Pacific, Southeast",2007,0.413673335,"Pacific, Southeast"
+248100,eez-ccamlr,213,Antarctica,2007,0.318393418,Antarctica
+248200,eez-ccamlr,213,Antarctica,2007,0.310907736,Antarctica
+248300,eez-ccamlr,213,Antarctica,2007,0.340569656,Antarctica
+248400,eez-ccamlr,213,Antarctica,2007,0.316525567,Antarctica
+248500,eez-ccamlr,213,Antarctica,2007,0.191591544,Antarctica
+248600,eez-ccamlr,213,Antarctica,2007,0.268904976,Antarctica
+258410,eez-ccamlr,213,Antarctica,2007,0.26219577,Antarctica
+258420,eez-ccamlr,213,Antarctica,2007,0.288018838,Antarctica
+258431,eez-ccamlr,213,Antarctica,2007,0.286451099,Antarctica
+258432,eez-ccamlr,213,Antarctica,2007,0.253348759,Antarctica
+258441,eez-ccamlr,213,Antarctica,2007,0.31460981,Antarctica
+258442,eez-ccamlr,213,Antarctica,2007,0.318651244,Antarctica
+258510,eez-ccamlr,213,Antarctica,2007,0.33614634,Antarctica
+258520,eez-ccamlr,213,Antarctica,2007,0.286777096,Antarctica
+258600,eez-ccamlr,213,Antarctica,2007,0.350479837,Antarctica
+258700,eez-ccamlr,213,Antarctica,2007,0.35255217,Antarctica
+288100,eez-ccamlr,213,Antarctica,2007,0.240709787,Antarctica
+288200,eez-ccamlr,213,Antarctica,2007,0.295673747,Antarctica
+288300,eez-ccamlr,213,Antarctica,2007,0.302383281,Antarctica
+0,eez,16,Australia,2008,0.567686182,Oceania
+1,eez,1,Cocos Islands,2008,0.520365102,Oceania
+2,eez,2,Christmas Island,2008,0.530952105,Oceania
+3,eez,3,Norfolk Island,2008,0.588914603,Oceania
+4,eez,4,Macquarie Island,2008,0.325107279,Oceania
+5,eez,5,New Caledonia,2008,0.629130488,Oceania
+6,eez,6,Vanuatu,2008,0.602240831,Oceania
+7,eez,7,Solomon Islands,2008,0.614807382,Oceania
+8,eez,8,Palau,2008,0.631850462,Oceania
+9,eez,9,Micronesia,2008,0.605889096,Oceania
+10,eez,10,Nauru,2008,0.422791499,Oceania
+11,eez,11,Marshall Islands,2008,0.546619691,Oceania
+12,eez,12,Wake Island,2008,0.525961813,Oceania
+13,eez,13,Northern Mariana Islands and Guam,2008,0.562057614,Oceania
+14,eez,14,Taiwan,2008,0.548649287,Asia
+15,eez,15,Philippines,2008,0.610227577,Asia
+17,eez,17,Papua New Guinea,2008,0.626114867,Oceania
+18,eez,18,Fiji,2008,0.60285474,Oceania
+19,eez,19,Tuvalu,2008,0.544989131,Oceania
+20,eez,20,South Korea,2008,0.50638712,Asia
+21,eez,21,North Korea,2008,0.46903687,Asia
+24,eez,24,Cambodia,2008,0.580975889,Asia
+25,eez,25,Thailand,2008,0.545288179,Asia
+26,eez,26,Andaman and Nicobar,2008,0.474436823,Islands
+28,eez,28,Comoro Islands,2008,0.529313207,Islands
+29,eez,29,Mayotte,2008,0.534848672,Islands
+30,eez,30,Glorioso Islands,2008,0.521474848,Islands
+31,eez,31,Seychelles,2008,0.512919162,Islands
+32,eez,32,Reunion,2008,0.547936719,Islands
+33,eez,33,Juan de Nova Island,2008,0.540522294,Islands
+34,eez,34,Bassas da India,2008,0.543106387,Islands
+35,eez,35,Ile Europa,2008,0.548152807,Islands
+36,eez,36,Ile Tromelin,2008,0.520327611,Islands
+37,eez,37,Mauritius,2008,0.513113224,Islands
+38,eez,38,British Indian Ocean Territory,2008,0.525608795,Islands
+39,eez,39,Maldives,2008,0.498548378,Islands
+40,eez,40,Sri Lanka,2008,0.477492636,Asia
+41,eez,41,Mozambique,2008,0.544256698,Africa
+42,eez,42,Madagascar,2008,0.542576025,Africa
+43,eez,43,Kenya,2008,0.519180608,Africa
+44,eez,44,Somalia,2008,0.50637808,Africa
+45,eez,45,Eritrea,2008,0.483336366,Africa
+46,eez,46,Djibouti,2008,0.482974733,Africa
+47,eez,47,Yemen,2008,0.501937591,Middle East
+48,eez,48,Oman,2008,0.530074581,Middle East
+49,eez,49,Sudan,2008,0.483009866,Africa
+50,eez,50,Saudi Arabia,2008,0.509943522,Middle East
+51,eez,51,Kuwait,2008,0.578999996,Middle East
+52,eez,52,Bahrain,2008,0.57282071,Middle East
+53,eez,53,Pakistan,2008,0.573986344,Asia
+54,eez,54,United Arab Emirates,2008,0.548481057,Middle East
+55,eez,55,Azores,2008,0.487115834,Islands
+56,eez,56,Cape Verde,2008,0.492439234,Islands
+57,eez,57,Madeira,2008,0.550931924,Islands
+58,eez,58,Canary Islands,2008,0.549390122,Islands
+59,eez,59,Belgium,2008,0.327194433,Europe
+60,eez,60,Gibraltar,2008,0.531000018,Europe
+61,eez,61,Tunisia,2008,0.491493994,Africa
+62,eez,62,Morocco,2008,0.545269882,Africa
+63,eez,63,Western Sahara,2008,0.469683227,Africa
+64,eez,64,Mauritania,2008,0.440079569,Africa
+65,eez,65,Gambia,2008,0.458616497,Africa
+66,eez,66,Senegal,2008,0.46207916,Africa
+67,eez,67,Libya,2008,0.491580641,Africa
+68,eez,68,Malta,2008,0.490999997,Europe
+69,eez,69,Latvia,2008,0.386000007,Europe
+70,eez,70,Estonia,2008,0.393744851,Europe
+71,eez,71,Bulgaria,2008,0.34799999,Europe
+72,eez,72,Romania,2008,0.34799999,Europe
+73,eez,73,Russia,2008,0.499729867,Europe
+74,eez,74,Georgia,2008,0.501491622,Europe
+75,eez,75,Ukraine,2008,0.404936167,Europe
+76,eez,76,Turkey,2008,0.442538342,Europe
+77,eez,77,Syria,2008,0.578999996,Middle East
+78,eez,78,Lebanon,2008,0.578999996,Middle East
+79,eez,79,Israel,2008,0.578999996,Middle East
+80,eez,80,Greece,2008,0.460552982,Europe
+81,eez,81,Cyprus,2008,0.578999996,Europe
+82,eez,82,Albania,2008,0.362025355,Europe
+84,eez,84,Algeria,2008,0.510367181,Africa
+85,eez,85,Ascension,2008,0.450545979,Islands
+86,eez,86,Saint Helena,2008,0.518802919,Islands
+88,eez,88,Tristan da Cunha,2008,0.387888059,Islands
+89,eez,89,South Georgia and the South Sandwich Islands,2008,0.316189148,Islands
+90,eez,90,Prince Edward Islands,2008,0.314553801,Islands
+91,eez,91,Crozet Islands,2008,0.345978061,Islands
+92,eez,92,Amsterdam Island and Saint Paul Island,2008,0.420174541,Islands
+93,eez,93,Kerguelen Islands,2008,0.278867342,Islands
+94,eez,94,Heard and McDonald Islands,2008,0.281003278,Islands
+95,eez,95,Falkland Islands,2008,0.421645822,Islands
+96,eez,96,Sierra Leone,2008,0.495203867,Africa
+97,eez,97,Liberia,2008,0.485007265,Africa
+98,eez,98,Togo,2008,0.455535838,Africa
+99,eez,99,Benin,2008,0.452775561,Africa
+100,eez,100,Republique du Congo,2008,0.404226407,Africa
+101,eez,101,Namibia,2008,0.305124196,Africa
+102,eez,102,South Africa,2008,0.519511316,Africa
+103,eez,103,Sao Tome and Principe,2008,0.444496103,Islands
+104,eez,104,Equatorial Guinea,2008,0.429082658,Africa
+105,eez,105,Bouvet Island,2008,0.259067559,Islands
+106,eez,106,Ghana,2008,0.464014493,Africa
+107,eez,107,Clipperton Island,2008,0.391141962,Islands
+108,eez,108,Bermuda,2008,0.557808507,Caribbean
+110,eez,110,Bahamas,2008,0.576957011,Caribbean
+111,eez,111,Turks and Caicos Islands,2008,0.563491465,Caribbean
+112,eez,112,Cuba,2008,0.565489632,Caribbean
+113,eez,113,Cayman Islands,2008,0.553175816,Caribbean
+114,eez,114,Haiti,2008,0.558624814,Caribbean
+115,eez,115,Dominican Republic,2008,0.558402495,Caribbean
+117,eez,117,British Virgin Islands,2008,0.573115365,Caribbean
+118,eez,118,Anguilla,2008,0.582919317,Caribbean
+119,eez,119,Saint Kitts and Nevis,2008,0.58293468,Caribbean
+120,eez,120,Antigua and Barbuda,2008,0.591863142,Caribbean
+121,eez,121,Montserrat,2008,0.580966349,Caribbean
+122,eez,122,Saint Lucia,2008,0.552714915,Caribbean
+123,eez,123,Dominica,2008,0.577761806,Caribbean
+124,eez,124,Barbados,2008,0.561842991,Caribbean
+125,eez,125,Grenada,2008,0.520743882,Caribbean
+126,eez,126,Trinidad and Tobago,2008,0.515168189,Caribbean
+127,eez,127,Saint Vincent and the Grenadines,2008,0.537717185,Caribbean
+129,eez,129,Panama,2008,0.36774655,Central America
+130,eez,130,Costa Rica,2008,0.231826664,Central America
+131,eez,131,Nicaragua,2008,0.468236549,Central America
+132,eez,132,Colombia,2008,0.390358308,South America
+133,eez,133,Honduras,2008,0.548194403,Central America
+134,eez,134,El Salvador,2008,0.278322437,Central America
+135,eez,135,Mexico,2008,0.45891319,North America
+136,eez,136,Guatemala,2008,0.318014427,Central America
+137,eez,137,Ecuador,2008,0.153675541,South America
+138,eez,138,Peru,2008,0.117639458,South America
+139,eez,139,Venezuela,2008,0.530673544,South America
+141,eez,141,Faeroe Islands,2008,0.412808561,Europe
+143,eez,143,Iceland,2008,0.434138056,Europe
+144,eez,144,Jan Mayen,2008,0.433653407,Europe
+145,eez,145,Greenland,2008,0.483917496,Europe
+146,eez,146,Pitcairn,2008,0.616589147,Oceania
+147,eez,147,French Polynesia,2008,0.584366625,Oceania
+148,eez,148,Line Group,2008,0.364005969,Oceania
+149,eez,149,Jarvis Island,2008,0.20394722,Oceania
+150,eez,150,Palmyra Atoll,2008,0.441899208,Oceania
+151,eez,151,American Samoa,2008,0.583778204,Oceania
+152,eez,152,Samoa,2008,0.574588881,Oceania
+153,eez,153,Cook Islands,2008,0.583790221,Oceania
+154,eez,154,Niue,2008,0.621519574,Oceania
+155,eez,155,Tonga,2008,0.610691148,Oceania
+156,eez,156,Tokelau,2008,0.529442733,Oceania
+157,eez,157,Phoenix Group,2008,0.347343597,Oceania
+158,eez,158,Howland Island and Baker Island,2008,0.248409665,Oceania
+159,eez,159,Johnston Atoll,2008,0.463836858,Oceania
+161,eez,161,Wallis and Futuna,2008,0.568875303,Oceania
+162,eez,162,New Zealand,2008,0.490690326,Oceania
+163,eez,163,United States,2008,0.401624582,North America
+164,eez,164,Belize,2008,0.555568162,Central America
+166,eez,166,Jamaica,2008,0.548299357,Caribbean
+167,eez,167,Guyana,2008,0.507343789,South America
+168,eez,168,Suriname,2008,0.501030174,South America
+169,eez,169,French Guiana,2008,0.491507928,South America
+171,eez,171,Brazil,2008,0.504697279,South America
+172,eez,172,Argentina,2008,0.409832716,South America
+173,eez,173,Uruguay,2008,0.511256048,South America
+174,eez,174,Finland,2008,0.410675753,Europe
+175,eez,175,Denmark,2008,0.37314054,Europe
+176,eez,176,Germany,2008,0.362171643,Europe
+177,eez,177,Netherlands,2008,0.358496001,Europe
+178,eez,178,Poland,2008,0.385588244,Europe
+179,eez,179,France,2008,0.462868295,Europe
+180,eez,180,United Kingdom,2008,0.428719279,Europe
+181,eez,181,Ireland,2008,0.469154843,Europe
+182,eez,182,Spain,2008,0.500792188,Europe
+183,eez,183,Portugal,2008,0.538370575,Europe
+184,eez,184,Italy,2008,0.479021438,Europe
+185,eez,185,Monaco,2008,0.490999997,Europe
+186,eez,186,Montenegro,2008,0.344000012,Europe
+187,eez,187,Croatia,2008,0.344000012,Europe
+188,eez,188,Slovenia,2008,0.344000012,Europe
+189,eez,189,Lithuania,2008,0.386000007,Europe
+190,eez,190,Qatar,2008,0.562344378,Middle East
+191,eez,191,Iran,2008,0.565314525,Middle East
+192,eez,192,Iraq,2008,0.578999996,Middle East
+193,eez,193,Guinea Bissau,2008,0.48254845,Africa
+194,eez,194,Guinea,2008,0.49447623,Africa
+195,eez,195,Ivory Coast,2008,0.474908016,Africa
+196,eez,196,Nigeria,2008,0.446555007,Africa
+197,eez,197,Cameroon,2008,0.45706179,Africa
+198,eez,198,Gabon,2008,0.417884455,Africa
+199,eez,199,Democratic Republic of the Congo,2008,0.399037712,Africa
+200,eez,200,Angola,2008,0.382144346,Africa
+202,eez,202,Tanzania,2008,0.525787655,Africa
+203,eez,203,India,2008,0.535895755,Asia
+204,eez,204,Bangladesh,2008,0.50483409,Asia
+205,eez,205,Myanmar,2008,0.474192393,Asia
+206,eez,206,Malaysia,2008,0.619629017,Asia
+207,eez,207,Vietnam,2008,0.622013358,Asia
+208,eez,208,Singapore,2008,0.642452367,Asia
+209,eez,209,China,2008,0.510039285,Asia
+210,eez,210,Japan,2008,0.596050885,Asia
+212,eez,212,Kiribati,2008,0.363089663,Oceania
+214,eez,214,Egypt,2008,0.555860265,Africa
+215,eez,215,Jordan,2008,0.578999996,Middle East
+216,eez,216,Indonesia,2008,0.582441039,Asia
+218,eez,218,Canada,2008,0.610097376,North America
+219,eez,219,Saint Pierre and Miquelon,2008,0.063286209,North America
+220,eez,220,Sint Maarten,2008,0.587000012,Caribbean
+221,eez,221,Northern Saint-Martin,2008,0.58692619,Caribbean
+222,eez,222,Sweden,2008,0.3995667,Europe
+223,eez,223,Norway,2008,0.461786498,Europe
+224,eez,224,Chile,2008,0.396680201,South America
+227,eez,227,Jersey,2008,0.403779097,Islands
+228,eez,228,Guernsey,2008,0.403926748,Islands
+231,eez,231,East Timor,2008,0.532834881,Oceania
+232,eez,232,Bosnia and Herzegovina,2008,0.344000012,Europe
+237,eez,237,Oecussi Ambeno,2008,0.557272393,Asia
+244,eez,244,Curacao,2008,0.533276482,Caribbean
+245,eez,245,Bonaire,2008,0.525794117,Caribbean
+247,eez,247,Brunei,2008,0.63193137,Asia
+248,eez,248,Saba,2008,0.582170537,Caribbean
+249,eez,249,Sint Eustatius,2008,0.58400313,Caribbean
+250,eez,250,Aruba,2008,0.533263929,Caribbean
+251,eez,140,Guadeloupe and Martinique,2008,0.584191711,Caribbean
+255,eez,116,Puerto Rico and Virgin Islands of the United States,2008,0.565788848,Caribbean
+1018,fao,260,Arctic Sea,2008,0.454756205,Arctic
+1021,fao,261,"Atlantic, Northwest",2008,0.431201295,"Atlantic, Northwest"
+1027,fao,262,"Atlantic, Northeast",2008,0.525349223,"Atlantic, Northeast"
+1031,fao,263,"Atlantic, Western-Central",2008,0.561183277,"Atlantic, Western-Central"
+1034,fao,264,"Atlantic, Eastern Central",2008,0.510402123,"Atlantic, Eastern Central"
+1041,fao,266,"Atlantic, Southwest",2008,0.463087035,"Atlantic, Southwest"
+1047,fao,267,"Atlantic, Southeast",2008,0.424518228,"Atlantic, Southeast"
+1051,fao,269,"Indian Ocean, Western",2008,0.509159273,"Indian Ocean, Western"
+1057,fao,270,"Indian Ocean, Eastern",2008,0.46144922,"Indian Ocean, Eastern"
+1061,fao,272,"Pacific, Northwest",2008,0.565643849,"Pacific, Northwest"
+1067,fao,273,"Pacific, Northeast",2008,0.313176775,"Pacific, Northeast"
+1071,fao,274,"Pacific, Western Central",2008,0.528156707,"Pacific, Western Central"
+1077,fao,275,"Pacific, Eastern Central",2008,0.404872209,"Pacific, Eastern Central"
+1081,fao,276,"Pacific, Southwest",2008,0.47345589,"Pacific, Southwest"
+1087,fao,277,"Pacific, Southeast",2008,0.389627647,"Pacific, Southeast"
+248100,eez-ccamlr,213,Antarctica,2008,0.299601139,Antarctica
+248200,eez-ccamlr,213,Antarctica,2008,0.313467326,Antarctica
+248300,eez-ccamlr,213,Antarctica,2008,0.377573956,Antarctica
+248400,eez-ccamlr,213,Antarctica,2008,0.277342872,Antarctica
+248500,eez-ccamlr,213,Antarctica,2008,0.17913925,Antarctica
+248600,eez-ccamlr,213,Antarctica,2008,0.268602021,Antarctica
+258410,eez-ccamlr,213,Antarctica,2008,0.287466417,Antarctica
+258420,eez-ccamlr,213,Antarctica,2008,0.300145722,Antarctica
+258431,eez-ccamlr,213,Antarctica,2008,0.298010655,Antarctica
+258432,eez-ccamlr,213,Antarctica,2008,0.279128199,Antarctica
+258441,eez-ccamlr,213,Antarctica,2008,0.30240739,Antarctica
+258442,eez-ccamlr,213,Antarctica,2008,0.321190987,Antarctica
+258510,eez-ccamlr,213,Antarctica,2008,0.33885188,Antarctica
+258520,eez-ccamlr,213,Antarctica,2008,0.302192748,Antarctica
+258600,eez-ccamlr,213,Antarctica,2008,0.341745686,Antarctica
+258700,eez-ccamlr,213,Antarctica,2008,0.317003396,Antarctica
+288100,eez-ccamlr,213,Antarctica,2008,0.257941603,Antarctica
+288200,eez-ccamlr,213,Antarctica,2008,0.295129269,Antarctica
+288300,eez-ccamlr,213,Antarctica,2008,0.297553396,Antarctica
+0,eez,16,Australia,2009,0.536819209,Oceania
+1,eez,1,Cocos Islands,2009,0.474172218,Oceania
+2,eez,2,Christmas Island,2009,0.481727028,Oceania
+3,eez,3,Norfolk Island,2009,0.551352763,Oceania
+4,eez,4,Macquarie Island,2009,0.376853068,Oceania
+5,eez,5,New Caledonia,2009,0.581950521,Oceania
+6,eez,6,Vanuatu,2009,0.632746994,Oceania
+7,eez,7,Solomon Islands,2009,0.654782054,Oceania
+8,eez,8,Palau,2009,0.634520172,Oceania
+9,eez,9,Micronesia,2009,0.615802293,Oceania
+10,eez,10,Nauru,2009,0.544406279,Oceania
+11,eez,11,Marshall Islands,2009,0.582226063,Oceania
+12,eez,12,Wake Island,2009,0.545309714,Oceania
+13,eez,13,Northern Mariana Islands and Guam,2009,0.593453388,Oceania
+14,eez,14,Taiwan,2009,0.596932019,Asia
+15,eez,15,Philippines,2009,0.57463631,Asia
+17,eez,17,Papua New Guinea,2009,0.601993157,Oceania
+18,eez,18,Fiji,2009,0.637648403,Oceania
+19,eez,19,Tuvalu,2009,0.610547123,Oceania
+20,eez,20,South Korea,2009,0.552865262,Asia
+21,eez,21,North Korea,2009,0.509678844,Asia
+24,eez,24,Cambodia,2009,0.62757293,Asia
+25,eez,25,Thailand,2009,0.566075223,Asia
+26,eez,26,Andaman and Nicobar,2009,0.491158144,Islands
+28,eez,28,Comoro Islands,2009,0.528248946,Islands
+29,eez,29,Mayotte,2009,0.522141448,Islands
+30,eez,30,Glorioso Islands,2009,0.529142029,Islands
+31,eez,31,Seychelles,2009,0.540012461,Islands
+32,eez,32,Reunion,2009,0.556738758,Islands
+33,eez,33,Juan de Nova Island,2009,0.526537648,Islands
+34,eez,34,Bassas da India,2009,0.529911235,Islands
+35,eez,35,Ile Europa,2009,0.546422505,Islands
+36,eez,36,Ile Tromelin,2009,0.522679703,Islands
+37,eez,37,Mauritius,2009,0.533156987,Islands
+38,eez,38,British Indian Ocean Territory,2009,0.480830974,Islands
+39,eez,39,Maldives,2009,0.497657874,Islands
+40,eez,40,Sri Lanka,2009,0.509538105,Asia
+41,eez,41,Mozambique,2009,0.520205452,Africa
+42,eez,42,Madagascar,2009,0.54799317,Africa
+43,eez,43,Kenya,2009,0.517354857,Africa
+44,eez,44,Somalia,2009,0.505819062,Africa
+45,eez,45,Eritrea,2009,0.437000006,Africa
+46,eez,46,Djibouti,2009,0.434833328,Africa
+47,eez,47,Yemen,2009,0.48133947,Middle East
+48,eez,48,Oman,2009,0.517453807,Middle East
+49,eez,49,Sudan,2009,0.437000006,Africa
+50,eez,50,Saudi Arabia,2009,0.484111519,Middle East
+51,eez,51,Kuwait,2009,0.601999998,Middle East
+52,eez,52,Bahrain,2009,0.596239885,Middle East
+53,eez,53,Pakistan,2009,0.555923498,Asia
+54,eez,54,United Arab Emirates,2009,0.570470379,Middle East
+55,eez,55,Azores,2009,0.531451557,Islands
+56,eez,56,Cape Verde,2009,0.440437502,Islands
+57,eez,57,Madeira,2009,0.559007848,Islands
+58,eez,58,Canary Islands,2009,0.545128049,Islands
+59,eez,59,Belgium,2009,0.39381011,Europe
+60,eez,60,Gibraltar,2009,0.490999997,Europe
+61,eez,61,Tunisia,2009,0.501041154,Africa
+62,eez,62,Morocco,2009,0.523120671,Africa
+63,eez,63,Western Sahara,2009,0.409876482,Africa
+64,eez,64,Mauritania,2009,0.357884062,Africa
+65,eez,65,Gambia,2009,0.406087357,Africa
+66,eez,66,Senegal,2009,0.40743621,Africa
+67,eez,67,Libya,2009,0.501048374,Africa
+68,eez,68,Malta,2009,0.500999987,Europe
+69,eez,69,Latvia,2009,0.361000001,Europe
+70,eez,70,Estonia,2009,0.362857652,Europe
+71,eez,71,Bulgaria,2009,0.372000009,Europe
+72,eez,72,Romania,2009,0.372000009,Europe
+73,eez,73,Russia,2009,0.503266865,Europe
+74,eez,74,Georgia,2009,0.490043451,Europe
+75,eez,75,Ukraine,2009,0.384272856,Europe
+76,eez,76,Turkey,2009,0.447742506,Europe
+77,eez,77,Syria,2009,0.601999998,Middle East
+78,eez,78,Lebanon,2009,0.601999998,Middle East
+79,eez,79,Israel,2009,0.601999998,Middle East
+80,eez,80,Greece,2009,0.477294953,Europe
+81,eez,81,Cyprus,2009,0.601999998,Europe
+82,eez,82,Albania,2009,0.415016893,Europe
+84,eez,84,Algeria,2009,0.499874614,Africa
+85,eez,85,Ascension,2009,0.446245287,Islands
+86,eez,86,Saint Helena,2009,0.466395523,Islands
+88,eez,88,Tristan da Cunha,2009,0.466834788,Islands
+89,eez,89,South Georgia and the South Sandwich Islands,2009,0.355113941,Islands
+90,eez,90,Prince Edward Islands,2009,0.295682205,Islands
+91,eez,91,Crozet Islands,2009,0.321242647,Islands
+92,eez,92,Amsterdam Island and Saint Paul Island,2009,0.498285576,Islands
+93,eez,93,Kerguelen Islands,2009,0.301746576,Islands
+94,eez,94,Heard and McDonald Islands,2009,0.280859618,Islands
+95,eez,95,Falkland Islands,2009,0.421123349,Islands
+96,eez,96,Sierra Leone,2009,0.490171863,Africa
+97,eez,97,Liberia,2009,0.477722247,Africa
+98,eez,98,Togo,2009,0.444346628,Africa
+99,eez,99,Benin,2009,0.44285863,Africa
+100,eez,100,Republique du Congo,2009,0.665414024,Africa
+101,eez,101,Namibia,2009,0.315171884,Africa
+102,eez,102,South Africa,2009,0.539461152,Africa
+103,eez,103,Sao Tome and Principe,2009,0.43795883,Islands
+104,eez,104,Equatorial Guinea,2009,0.440407812,Africa
+105,eez,105,Bouvet Island,2009,0.276156847,Islands
+106,eez,106,Ghana,2009,0.451505767,Africa
+107,eez,107,Clipperton Island,2009,0.28834609,Islands
+108,eez,108,Bermuda,2009,0.559652944,Caribbean
+110,eez,110,Bahamas,2009,0.567450623,Caribbean
+111,eez,111,Turks and Caicos Islands,2009,0.578222589,Caribbean
+112,eez,112,Cuba,2009,0.555666681,Caribbean
+113,eez,113,Cayman Islands,2009,0.542616965,Caribbean
+114,eez,114,Haiti,2009,0.545832807,Caribbean
+115,eez,115,Dominican Republic,2009,0.54681981,Caribbean
+117,eez,117,British Virgin Islands,2009,0.591353109,Caribbean
+118,eez,118,Anguilla,2009,0.594822185,Caribbean
+119,eez,119,Saint Kitts and Nevis,2009,0.553697347,Caribbean
+120,eez,120,Antigua and Barbuda,2009,0.591104005,Caribbean
+121,eez,121,Montserrat,2009,0.54607042,Caribbean
+122,eez,122,Saint Lucia,2009,0.49934124,Caribbean
+123,eez,123,Dominica,2009,0.538289646,Caribbean
+124,eez,124,Barbados,2009,0.517630067,Caribbean
+125,eez,125,Grenada,2009,0.46959851,Caribbean
+126,eez,126,Trinidad and Tobago,2009,0.467724201,Caribbean
+127,eez,127,Saint Vincent and the Grenadines,2009,0.482540555,Caribbean
+129,eez,129,Panama,2009,0.410821698,Central America
+130,eez,130,Costa Rica,2009,0.307094407,Central America
+131,eez,131,Nicaragua,2009,0.456550278,Central America
+132,eez,132,Colombia,2009,0.411269221,South America
+133,eez,133,Honduras,2009,0.528215912,Central America
+134,eez,134,El Salvador,2009,0.27114592,Central America
+135,eez,135,Mexico,2009,0.454943502,North America
+136,eez,136,Guatemala,2009,0.27283737,Central America
+137,eez,137,Ecuador,2009,0.297123615,South America
+138,eez,138,Peru,2009,0.153368419,South America
+139,eez,139,Venezuela,2009,0.4738047,South America
+141,eez,141,Faeroe Islands,2009,0.404463569,Europe
+143,eez,143,Iceland,2009,0.430528852,Europe
+144,eez,144,Jan Mayen,2009,0.453540896,Europe
+145,eez,145,Greenland,2009,0.491677566,Europe
+146,eez,146,Pitcairn,2009,0.630572201,Oceania
+147,eez,147,French Polynesia,2009,0.598504958,Oceania
+148,eez,148,Line Group,2009,0.473794868,Oceania
+149,eez,149,Jarvis Island,2009,0.404405179,Oceania
+150,eez,150,Palmyra Atoll,2009,0.503960727,Oceania
+151,eez,151,American Samoa,2009,0.647735067,Oceania
+152,eez,152,Samoa,2009,0.658751136,Oceania
+153,eez,153,Cook Islands,2009,0.617721606,Oceania
+154,eez,154,Niue,2009,0.645270252,Oceania
+155,eez,155,Tonga,2009,0.638855673,Oceania
+156,eez,156,Tokelau,2009,0.583082104,Oceania
+157,eez,157,Phoenix Group,2009,0.474390933,Oceania
+158,eez,158,Howland Island and Baker Island,2009,0.467954858,Oceania
+159,eez,159,Johnston Atoll,2009,0.492041403,Oceania
+161,eez,161,Wallis and Futuna,2009,0.662326086,Oceania
+162,eez,162,New Zealand,2009,0.492385286,Oceania
+163,eez,163,United States,2009,0.416598791,North America
+164,eez,164,Belize,2009,0.540634753,Central America
+166,eez,166,Jamaica,2009,0.526702111,Caribbean
+167,eez,167,Guyana,2009,0.459731516,South America
+168,eez,168,Suriname,2009,0.454370804,South America
+169,eez,169,French Guiana,2009,0.455397598,South America
+171,eez,171,Brazil,2009,0.484152535,South America
+172,eez,172,Argentina,2009,0.431215282,South America
+173,eez,173,Uruguay,2009,0.521138954,South America
+174,eez,174,Finland,2009,0.371224619,Europe
+175,eez,175,Denmark,2009,0.368176432,Europe
+176,eez,176,Germany,2009,0.383430438,Europe
+177,eez,177,Netherlands,2009,0.416765268,Europe
+178,eez,178,Poland,2009,0.361119196,Europe
+179,eez,179,France,2009,0.487492132,Europe
+180,eez,180,United Kingdom,2009,0.453778333,Europe
+181,eez,181,Ireland,2009,0.482614603,Europe
+182,eez,182,Spain,2009,0.509206684,Europe
+183,eez,183,Portugal,2009,0.523431998,Europe
+184,eez,184,Italy,2009,0.493014281,Europe
+185,eez,185,Monaco,2009,0.500999987,Europe
+186,eez,186,Montenegro,2009,0.402999997,Europe
+187,eez,187,Croatia,2009,0.402999997,Europe
+188,eez,188,Slovenia,2009,0.402999997,Europe
+189,eez,189,Lithuania,2009,0.361000001,Europe
+190,eez,190,Qatar,2009,0.585274275,Middle East
+191,eez,191,Iran,2009,0.578766629,Middle East
+192,eez,192,Iraq,2009,0.601999998,Middle East
+193,eez,193,Guinea Bissau,2009,0.455039187,Africa
+194,eez,194,Guinea,2009,0.476457041,Africa
+195,eez,195,Ivory Coast,2009,0.460848699,Africa
+196,eez,196,Nigeria,2009,0.43992728,Africa
+197,eez,197,Cameroon,2009,0.438699562,Africa
+198,eez,198,Gabon,2009,0.491859931,Africa
+199,eez,199,Democratic Republic of the Congo,2009,0.768759972,Africa
+200,eez,200,Angola,2009,0.568339928,Africa
+202,eez,202,Tanzania,2009,0.52616039,Africa
+203,eez,203,India,2009,0.506194958,Asia
+204,eez,204,Bangladesh,2009,0.514082553,Asia
+205,eez,205,Myanmar,2009,0.506265034,Asia
+206,eez,206,Malaysia,2009,0.563987687,Asia
+207,eez,207,Vietnam,2009,0.591938625,Asia
+208,eez,208,Singapore,2009,0.667440488,Asia
+209,eez,209,China,2009,0.530386223,Asia
+210,eez,210,Japan,2009,0.580729396,Asia
+212,eez,212,Kiribati,2009,0.509620889,Oceania
+214,eez,214,Egypt,2009,0.567442443,Africa
+215,eez,215,Jordan,2009,0.601999998,Middle East
+216,eez,216,Indonesia,2009,0.526276989,Asia
+218,eez,218,Canada,2009,0.610235446,North America
+219,eez,219,Saint Pierre and Miquelon,2009,0.010629546,North America
+220,eez,220,Sint Maarten,2009,0.569000006,Caribbean
+221,eez,221,Northern Saint-Martin,2009,0.56858716,Caribbean
+222,eez,222,Sweden,2009,0.372749272,Europe
+223,eez,223,Norway,2009,0.443995593,Europe
+224,eez,224,Chile,2009,0.407926233,South America
+227,eez,227,Jersey,2009,0.433558165,Islands
+228,eez,228,Guernsey,2009,0.432890779,Islands
+231,eez,231,East Timor,2009,0.48082921,Oceania
+232,eez,232,Bosnia and Herzegovina,2009,0.402999997,Europe
+237,eez,237,Oecussi Ambeno,2009,0.516909212,Asia
+244,eez,244,Curacao,2009,0.474261826,Caribbean
+245,eez,245,Bonaire,2009,0.466072786,Caribbean
+247,eez,247,Brunei,2009,0.544700839,Asia
+248,eez,248,Saba,2009,0.554673859,Caribbean
+249,eez,249,Sint Eustatius,2009,0.557507028,Caribbean
+250,eez,250,Aruba,2009,0.474920598,Caribbean
+251,eez,140,Guadeloupe and Martinique,2009,0.555202234,Caribbean
+255,eez,116,Puerto Rico and Virgin Islands of the United States,2009,0.555265875,Caribbean
+1018,fao,260,Arctic Sea,2009,0.479653124,Arctic
+1021,fao,261,"Atlantic, Northwest",2009,0.441858056,"Atlantic, Northwest"
+1027,fao,262,"Atlantic, Northeast",2009,0.556463724,"Atlantic, Northeast"
+1031,fao,263,"Atlantic, Western-Central",2009,0.572674823,"Atlantic, Western-Central"
+1034,fao,264,"Atlantic, Eastern Central",2009,0.506940361,"Atlantic, Eastern Central"
+1041,fao,266,"Atlantic, Southwest",2009,0.473747479,"Atlantic, Southwest"
+1047,fao,267,"Atlantic, Southeast",2009,0.447898422,"Atlantic, Southeast"
+1051,fao,269,"Indian Ocean, Western",2009,0.52468085,"Indian Ocean, Western"
+1057,fao,270,"Indian Ocean, Eastern",2009,0.461273757,"Indian Ocean, Eastern"
+1061,fao,272,"Pacific, Northwest",2009,0.552722946,"Pacific, Northwest"
+1067,fao,273,"Pacific, Northeast",2009,0.342893193,"Pacific, Northeast"
+1071,fao,274,"Pacific, Western Central",2009,0.567680534,"Pacific, Western Central"
+1077,fao,275,"Pacific, Eastern Central",2009,0.448716183,"Pacific, Eastern Central"
+1081,fao,276,"Pacific, Southwest",2009,0.486703832,"Pacific, Southwest"
+1087,fao,277,"Pacific, Southeast",2009,0.4071008,"Pacific, Southeast"
+248100,eez-ccamlr,213,Antarctica,2009,0.316651059,Antarctica
+248200,eez-ccamlr,213,Antarctica,2009,0.342525073,Antarctica
+248300,eez-ccamlr,213,Antarctica,2009,0.414211008,Antarctica
+248400,eez-ccamlr,213,Antarctica,2009,0.33756566,Antarctica
+248500,eez-ccamlr,213,Antarctica,2009,0.170213227,Antarctica
+248600,eez-ccamlr,213,Antarctica,2009,0.271100194,Antarctica
+258410,eez-ccamlr,213,Antarctica,2009,0.285137605,Antarctica
+258420,eez-ccamlr,213,Antarctica,2009,0.276437325,Antarctica
+258431,eez-ccamlr,213,Antarctica,2009,0.272706986,Antarctica
+258432,eez-ccamlr,213,Antarctica,2009,0.261350384,Antarctica
+258441,eez-ccamlr,213,Antarctica,2009,0.24012147,Antarctica
+258442,eez-ccamlr,213,Antarctica,2009,0.259039418,Antarctica
+258510,eez-ccamlr,213,Antarctica,2009,0.350729005,Antarctica
+258520,eez-ccamlr,213,Antarctica,2009,0.294980762,Antarctica
+258600,eez-ccamlr,213,Antarctica,2009,0.314283119,Antarctica
+258700,eez-ccamlr,213,Antarctica,2009,0.305968674,Antarctica
+288100,eez-ccamlr,213,Antarctica,2009,0.248106032,Antarctica
+288200,eez-ccamlr,213,Antarctica,2009,0.277206743,Antarctica
+288300,eez-ccamlr,213,Antarctica,2009,0.290350476,Antarctica
+0,eez,16,Australia,2010,0.571691349,Oceania
+1,eez,1,Cocos Islands,2010,0.562359505,Oceania
+2,eez,2,Christmas Island,2010,0.577601173,Oceania
+3,eez,3,Norfolk Island,2010,0.578379228,Oceania
+4,eez,4,Macquarie Island,2010,0.380207071,Oceania
+5,eez,5,New Caledonia,2010,0.601425361,Oceania
+6,eez,6,Vanuatu,2010,0.623460126,Oceania
+7,eez,7,Solomon Islands,2010,0.621456865,Oceania
+8,eez,8,Palau,2010,0.617063557,Oceania
+9,eez,9,Micronesia,2010,0.605882353,Oceania
+10,eez,10,Nauru,2010,0.441918701,Oceania
+11,eez,11,Marshall Islands,2010,0.584502483,Oceania
+12,eez,12,Wake Island,2010,0.57988256,Oceania
+13,eez,13,Northern Mariana Islands and Guam,2010,0.631160558,Oceania
+14,eez,14,Taiwan,2010,0.676311481,Asia
+15,eez,15,Philippines,2010,0.651920819,Asia
+17,eez,17,Papua New Guinea,2010,0.584124688,Oceania
+18,eez,18,Fiji,2010,0.614206708,Oceania
+19,eez,19,Tuvalu,2010,0.596770646,Oceania
+20,eez,20,South Korea,2010,0.548325159,Asia
+21,eez,21,North Korea,2010,0.476167615,Asia
+24,eez,24,Cambodia,2010,0.705319945,Asia
+25,eez,25,Thailand,2010,0.606151953,Asia
+26,eez,26,Andaman and Nicobar,2010,0.488781516,Islands
+28,eez,28,Comoro Islands,2010,0.590473414,Islands
+29,eez,29,Mayotte,2010,0.590544958,Islands
+30,eez,30,Glorioso Islands,2010,0.59475455,Islands
+31,eez,31,Seychelles,2010,0.564389453,Islands
+32,eez,32,Reunion,2010,0.584411436,Islands
+33,eez,33,Juan de Nova Island,2010,0.578506876,Islands
+34,eez,34,Bassas da India,2010,0.580442509,Islands
+35,eez,35,Ile Europa,2010,0.581669931,Islands
+36,eez,36,Ile Tromelin,2010,0.587756272,Islands
+37,eez,37,Mauritius,2010,0.581768365,Islands
+38,eez,38,British Indian Ocean Territory,2010,0.545175332,Islands
+39,eez,39,Maldives,2010,0.519188293,Islands
+40,eez,40,Sri Lanka,2010,0.487845738,Asia
+41,eez,41,Mozambique,2010,0.599920297,Africa
+42,eez,42,Madagascar,2010,0.582070753,Africa
+43,eez,43,Kenya,2010,0.56478059,Africa
+44,eez,44,Somalia,2010,0.51389882,Africa
+45,eez,45,Eritrea,2010,0.480336355,Africa
+46,eez,46,Djibouti,2010,0.481374813,Africa
+47,eez,47,Yemen,2010,0.515348781,Middle East
+48,eez,48,Oman,2010,0.524075637,Middle East
+49,eez,49,Sudan,2010,0.480009845,Africa
+50,eez,50,Saudi Arabia,2010,0.522983072,Middle East
+51,eez,51,Kuwait,2010,0.620999992,Middle East
+52,eez,52,Bahrain,2010,0.614820706,Middle East
+53,eez,53,Pakistan,2010,0.573004044,Asia
+54,eez,54,United Arab Emirates,2010,0.590228473,Middle East
+55,eez,55,Azores,2010,0.56333588,Islands
+56,eez,56,Cape Verde,2010,0.489262539,Islands
+57,eez,57,Madeira,2010,0.557017848,Islands
+58,eez,58,Canary Islands,2010,0.544647318,Islands
+59,eez,59,Belgium,2010,0.415581032,Europe
+60,eez,60,Gibraltar,2010,0.531000018,Europe
+61,eez,61,Tunisia,2010,0.482679239,Africa
+62,eez,62,Morocco,2010,0.54505767,Africa
+63,eez,63,Western Sahara,2010,0.465220074,Africa
+64,eez,64,Mauritania,2010,0.433311032,Africa
+65,eez,65,Gambia,2010,0.445853257,Africa
+66,eez,66,Senegal,2010,0.449798921,Africa
+67,eez,67,Libya,2010,0.482798379,Africa
+68,eez,68,Malta,2010,0.481999993,Europe
+69,eez,69,Latvia,2010,0.335000008,Europe
+70,eez,70,Estonia,2010,0.338892714,Europe
+71,eez,71,Bulgaria,2010,0.379000008,Europe
+72,eez,72,Romania,2010,0.379000008,Europe
+73,eez,73,Russia,2010,0.492381091,Europe
+74,eez,74,Georgia,2010,0.478901301,Europe
+75,eez,75,Ukraine,2010,0.361056677,Europe
+76,eez,76,Turkey,2010,0.445848868,Europe
+77,eez,77,Syria,2010,0.620999992,Middle East
+78,eez,78,Lebanon,2010,0.620999992,Middle East
+79,eez,79,Israel,2010,0.620999992,Middle East
+80,eez,80,Greece,2010,0.468546917,Europe
+81,eez,81,Cyprus,2010,0.620999992,Europe
+82,eez,82,Albania,2010,0.435498925,Europe
+84,eez,84,Algeria,2010,0.504339194,Africa
+85,eez,85,Ascension,2010,0.480319887,Islands
+86,eez,86,Saint Helena,2010,0.50243198,Islands
+88,eez,88,Tristan da Cunha,2010,0.409063718,Islands
+89,eez,89,South Georgia and the South Sandwich Islands,2010,0.311485476,Islands
+90,eez,90,Prince Edward Islands,2010,0.274408053,Islands
+91,eez,91,Crozet Islands,2010,0.26882842,Islands
+92,eez,92,Amsterdam Island and Saint Paul Island,2010,0.462279749,Islands
+93,eez,93,Kerguelen Islands,2010,0.214701043,Islands
+94,eez,94,Heard and McDonald Islands,2010,0.239064523,Islands
+95,eez,95,Falkland Islands,2010,0.374063597,Islands
+96,eez,96,Sierra Leone,2010,0.513978285,Africa
+97,eez,97,Liberia,2010,0.507515659,Africa
+98,eez,98,Togo,2010,0.478557271,Africa
+99,eez,99,Benin,2010,0.478092124,Africa
+100,eez,100,Republique du Congo,2010,0.279448696,Africa
+101,eez,101,Namibia,2010,0.280804577,Africa
+102,eez,102,South Africa,2010,0.531425381,Africa
+103,eez,103,Sao Tome and Principe,2010,0.466682287,Islands
+104,eez,104,Equatorial Guinea,2010,0.427148412,Africa
+105,eez,105,Bouvet Island,2010,0.287280429,Islands
+106,eez,106,Ghana,2010,0.484629587,Africa
+107,eez,107,Clipperton Island,2010,0.428939422,Islands
+108,eez,108,Bermuda,2010,0.527012838,Caribbean
+110,eez,110,Bahamas,2010,0.553976646,Caribbean
+111,eez,111,Turks and Caicos Islands,2010,0.593730459,Caribbean
+112,eez,112,Cuba,2010,0.546268097,Caribbean
+113,eez,113,Cayman Islands,2010,0.544440748,Caribbean
+114,eez,114,Haiti,2010,0.579813406,Caribbean
+115,eez,115,Dominican Republic,2010,0.595775037,Caribbean
+117,eez,117,British Virgin Islands,2010,0.615713102,Caribbean
+118,eez,118,Anguilla,2010,0.620070067,Caribbean
+119,eez,119,Saint Kitts and Nevis,2010,0.608582257,Caribbean
+120,eez,120,Antigua and Barbuda,2010,0.621036721,Caribbean
+121,eez,121,Montserrat,2010,0.606016814,Caribbean
+122,eez,122,Saint Lucia,2010,0.586014607,Caribbean
+123,eez,123,Dominica,2010,0.604380756,Caribbean
+124,eez,124,Barbados,2010,0.596877119,Caribbean
+125,eez,125,Grenada,2010,0.559844136,Caribbean
+126,eez,126,Trinidad and Tobago,2010,0.554249195,Caribbean
+127,eez,127,Saint Vincent and the Grenadines,2010,0.574518451,Caribbean
+129,eez,129,Panama,2010,0.408493359,Central America
+130,eez,130,Costa Rica,2010,0.316421391,Central America
+131,eez,131,Nicaragua,2010,0.489453132,Central America
+132,eez,132,Colombia,2010,0.425431065,South America
+133,eez,133,Honduras,2010,0.546297215,Central America
+134,eez,134,El Salvador,2010,0.346319847,Central America
+135,eez,135,Mexico,2010,0.504676903,North America
+136,eez,136,Guatemala,2010,0.392996848,Central America
+137,eez,137,Ecuador,2010,0.233530662,South America
+138,eez,138,Peru,2010,0.22068094,South America
+139,eez,139,Venezuela,2010,0.564247887,South America
+141,eez,141,Faeroe Islands,2010,0.437605308,Europe
+143,eez,143,Iceland,2010,0.495356083,Europe
+144,eez,144,Jan Mayen,2010,0.488095811,Europe
+145,eez,145,Greenland,2010,0.536008017,Europe
+146,eez,146,Pitcairn,2010,0.634454672,Oceania
+147,eez,147,French Polynesia,2010,0.606243779,Oceania
+148,eez,148,Line Group,2010,0.445103454,Oceania
+149,eez,149,Jarvis Island,2010,0.375469551,Oceania
+150,eez,150,Palmyra Atoll,2010,0.516965501,Oceania
+151,eez,151,American Samoa,2010,0.6152075,Oceania
+152,eez,152,Samoa,2010,0.615082322,Oceania
+153,eez,153,Cook Islands,2010,0.6067825,Oceania
+154,eez,154,Niue,2010,0.641617021,Oceania
+155,eez,155,Tonga,2010,0.631416625,Oceania
+156,eez,156,Tokelau,2010,0.580313735,Oceania
+157,eez,157,Phoenix Group,2010,0.443342463,Oceania
+158,eez,158,Howland Island and Baker Island,2010,0.384319141,Oceania
+159,eez,159,Johnston Atoll,2010,0.519829956,Oceania
+161,eez,161,Wallis and Futuna,2010,0.611923222,Oceania
+162,eez,162,New Zealand,2010,0.486387022,Oceania
+163,eez,163,United States,2010,0.442049428,North America
+164,eez,164,Belize,2010,0.54613555,Central America
+166,eez,166,Jamaica,2010,0.566584576,Caribbean
+167,eez,167,Guyana,2010,0.55293494,South America
+168,eez,168,Suriname,2010,0.552555994,South America
+169,eez,169,French Guiana,2010,0.548975176,South America
+171,eez,171,Brazil,2010,0.527360515,South America
+172,eez,172,Argentina,2010,0.401146426,South America
+173,eez,173,Uruguay,2010,0.532927372,South America
+174,eez,174,Finland,2010,0.358941735,Europe
+175,eez,175,Denmark,2010,0.37132893,Europe
+176,eez,176,Germany,2010,0.391988381,Europe
+177,eez,177,Netherlands,2010,0.446929736,Europe
+178,eez,178,Poland,2010,0.335476787,Europe
+179,eez,179,France,2010,0.492277811,Europe
+180,eez,180,United Kingdom,2010,0.464619374,Europe
+181,eez,181,Ireland,2010,0.475440885,Europe
+182,eez,182,Spain,2010,0.520952679,Europe
+183,eez,183,Portugal,2010,0.564225045,Europe
+184,eez,184,Italy,2010,0.477681192,Europe
+185,eez,185,Monaco,2010,0.481999993,Europe
+186,eez,186,Montenegro,2010,0.42899999,Europe
+187,eez,187,Croatia,2010,0.42899999,Europe
+188,eez,188,Slovenia,2010,0.42899999,Europe
+189,eez,189,Lithuania,2010,0.335000008,Europe
+190,eez,190,Qatar,2010,0.604344374,Middle East
+191,eez,191,Iran,2010,0.599496412,Middle East
+192,eez,192,Iraq,2010,0.620999992,Middle East
+193,eez,193,Guinea Bissau,2010,0.478899538,Africa
+194,eez,194,Guinea,2010,0.49521873,Africa
+195,eez,195,Ivory Coast,2010,0.491143199,Africa
+196,eez,196,Nigeria,2010,0.483014505,Africa
+197,eez,197,Cameroon,2010,0.504902667,Africa
+198,eez,198,Gabon,2010,0.371954362,Africa
+199,eez,199,Democratic Republic of the Congo,2010,0.280501817,Africa
+200,eez,200,Angola,2010,0.407366911,Africa
+202,eez,202,Tanzania,2010,0.57761392,Africa
+203,eez,203,India,2010,0.547644622,Asia
+204,eez,204,Bangladesh,2010,0.494731573,Asia
+205,eez,205,Myanmar,2010,0.490691832,Asia
+206,eez,206,Malaysia,2010,0.641473479,Asia
+207,eez,207,Vietnam,2010,0.666911388,Asia
+208,eez,208,Singapore,2010,0.686462959,Asia
+209,eez,209,China,2010,0.57951605,Asia
+210,eez,210,Japan,2010,0.605796042,Asia
+212,eez,212,Kiribati,2010,0.429242996,Oceania
+214,eez,214,Egypt,2010,0.58609357,Africa
+215,eez,215,Jordan,2010,0.620999992,Middle East
+216,eez,216,Indonesia,2010,0.569515687,Asia
+218,eez,218,Canada,2010,0.62596802,North America
+219,eez,219,Saint Pierre and Miquelon,2010,0.076916107,North America
+220,eez,220,Sint Maarten,2010,0.614000022,Caribbean
+221,eez,221,Northern Saint-Martin,2010,0.613795625,Caribbean
+222,eez,222,Sweden,2010,0.356205547,Europe
+223,eez,223,Norway,2010,0.443828854,Europe
+224,eez,224,Chile,2010,0.436621371,South America
+227,eez,227,Jersey,2010,0.48433727,Islands
+228,eez,228,Guernsey,2010,0.480632305,Islands
+231,eez,231,East Timor,2010,0.544749589,Oceania
+232,eez,232,Bosnia and Herzegovina,2010,0.42899999,Europe
+237,eez,237,Oecussi Ambeno,2010,0.54827239,Asia
+244,eez,244,Curacao,2010,0.565801386,Caribbean
+245,eez,245,Bonaire,2010,0.56222323,Caribbean
+247,eez,247,Brunei,2010,0.667470989,Asia
+248,eez,248,Saba,2010,0.608659669,Caribbean
+249,eez,249,Sint Eustatius,2010,0.609960216,Caribbean
+250,eez,250,Aruba,2010,0.563300299,Caribbean
+251,eez,140,Guadeloupe and Martinique,2010,0.610015937,Caribbean
+255,eez,116,Puerto Rico and Virgin Islands of the United States,2010,0.60298973,Caribbean
+1018,fao,260,Arctic Sea,2010,0.482187407,Arctic
+1021,fao,261,"Atlantic, Northwest",2010,0.442150311,"Atlantic, Northwest"
+1027,fao,262,"Atlantic, Northeast",2010,0.539497141,"Atlantic, Northeast"
+1031,fao,263,"Atlantic, Western-Central",2010,0.586967203,"Atlantic, Western-Central"
+1034,fao,264,"Atlantic, Eastern Central",2010,0.523025221,"Atlantic, Eastern Central"
+1041,fao,266,"Atlantic, Southwest",2010,0.470191906,"Atlantic, Southwest"
+1047,fao,267,"Atlantic, Southeast",2010,0.438474293,"Atlantic, Southeast"
+1051,fao,269,"Indian Ocean, Western",2010,0.533612793,"Indian Ocean, Western"
+1057,fao,270,"Indian Ocean, Eastern",2010,0.480649042,"Indian Ocean, Eastern"
+1061,fao,272,"Pacific, Northwest",2010,0.556156452,"Pacific, Northwest"
+1067,fao,273,"Pacific, Northeast",2010,0.375042249,"Pacific, Northeast"
+1071,fao,274,"Pacific, Western Central",2010,0.58327066,"Pacific, Western Central"
+1077,fao,275,"Pacific, Eastern Central",2010,0.465911532,"Pacific, Eastern Central"
+1081,fao,276,"Pacific, Southwest",2010,0.488916988,"Pacific, Southwest"
+1087,fao,277,"Pacific, Southeast",2010,0.439804173,"Pacific, Southeast"
+248100,eez-ccamlr,213,Antarctica,2010,0.321769564,Antarctica
+248200,eez-ccamlr,213,Antarctica,2010,0.330390715,Antarctica
+248300,eez-ccamlr,213,Antarctica,2010,0.315951588,Antarctica
+248400,eez-ccamlr,213,Antarctica,2010,0.286292394,Antarctica
+248500,eez-ccamlr,213,Antarctica,2010,0.205503092,Antarctica
+248600,eez-ccamlr,213,Antarctica,2010,0.288403575,Antarctica
+258410,eez-ccamlr,213,Antarctica,2010,0.299829492,Antarctica
+258420,eez-ccamlr,213,Antarctica,2010,0.295878721,Antarctica
+258431,eez-ccamlr,213,Antarctica,2010,0.26025511,Antarctica
+258432,eez-ccamlr,213,Antarctica,2010,0.270383723,Antarctica
+258441,eez-ccamlr,213,Antarctica,2010,0.292940224,Antarctica
+258442,eez-ccamlr,213,Antarctica,2010,0.285140568,Antarctica
+258510,eez-ccamlr,213,Antarctica,2010,0.276207464,Antarctica
+258520,eez-ccamlr,213,Antarctica,2010,0.257476111,Antarctica
+258600,eez-ccamlr,213,Antarctica,2010,0.274919592,Antarctica
+258700,eez-ccamlr,213,Antarctica,2010,0.302830657,Antarctica
+288100,eez-ccamlr,213,Antarctica,2010,0.257143679,Antarctica
+288200,eez-ccamlr,213,Antarctica,2010,0.313018251,Antarctica
+288300,eez-ccamlr,213,Antarctica,2010,0.316650474,Antarctica
+0,eez,16,Australia,2011,0.605420018,Oceania
+1,eez,1,Cocos Islands,2011,0.605158293,Oceania
+2,eez,2,Christmas Island,2011,0.620339756,Oceania
+3,eez,3,Norfolk Island,2011,0.609149674,Oceania
+4,eez,4,Macquarie Island,2011,0.360661572,Oceania
+5,eez,5,New Caledonia,2011,0.643992371,Oceania
+6,eez,6,Vanuatu,2011,0.650839772,Oceania
+7,eez,7,Solomon Islands,2011,0.638599296,Oceania
+8,eez,8,Palau,2011,0.689165666,Oceania
+9,eez,9,Micronesia,2011,0.661614714,Oceania
+10,eez,10,Nauru,2011,0.433885179,Oceania
+11,eez,11,Marshall Islands,2011,0.605649963,Oceania
+12,eez,12,Wake Island,2011,0.623579462,Oceania
+13,eez,13,Northern Mariana Islands and Guam,2011,0.665149524,Oceania
+14,eez,14,Taiwan,2011,0.643578288,Asia
+15,eez,15,Philippines,2011,0.672782186,Asia
+17,eez,17,Papua New Guinea,2011,0.647767363,Oceania
+18,eez,18,Fiji,2011,0.632470245,Oceania
+19,eez,19,Tuvalu,2011,0.566104995,Oceania
+20,eez,20,South Korea,2011,0.494709752,Asia
+21,eez,21,North Korea,2011,0.456106939,Asia
+24,eez,24,Cambodia,2011,0.609445463,Asia
+25,eez,25,Thailand,2011,0.592752364,Asia
+26,eez,26,Andaman and Nicobar,2011,0.535906343,Islands
+28,eez,28,Comoro Islands,2011,0.518213461,Islands
+29,eez,29,Mayotte,2011,0.550065132,Islands
+30,eez,30,Glorioso Islands,2011,0.516275582,Islands
+31,eez,31,Seychelles,2011,0.521100878,Islands
+32,eez,32,Reunion,2011,0.576902509,Islands
+33,eez,33,Juan de Nova Island,2011,0.551320137,Islands
+34,eez,34,Bassas da India,2011,0.566440494,Islands
+35,eez,35,Ile Europa,2011,0.587698658,Islands
+36,eez,36,Ile Tromelin,2011,0.546495478,Islands
+37,eez,37,Mauritius,2011,0.564045423,Islands
+38,eez,38,British Indian Ocean Territory,2011,0.572563809,Islands
+39,eez,39,Maldives,2011,0.581181608,Islands
+40,eez,40,Sri Lanka,2011,0.545860779,Asia
+41,eez,41,Mozambique,2011,0.568507172,Africa
+42,eez,42,Madagascar,2011,0.565191616,Africa
+43,eez,43,Kenya,2011,0.500191303,Africa
+44,eez,44,Somalia,2011,0.479408603,Africa
+45,eez,45,Eritrea,2011,0.440009086,Africa
+46,eez,46,Djibouti,2011,0.439556689,Africa
+47,eez,47,Yemen,2011,0.482559213,Middle East
+48,eez,48,Oman,2011,0.549729078,Middle East
+49,eez,49,Sudan,2011,0.439029578,Africa
+50,eez,50,Saudi Arabia,2011,0.496046245,Middle East
+51,eez,51,Kuwait,2011,0.625999987,Middle East
+52,eez,52,Bahrain,2011,0.619111707,Middle East
+53,eez,53,Pakistan,2011,0.584624143,Asia
+54,eez,54,United Arab Emirates,2011,0.593399139,Middle East
+55,eez,55,Azores,2011,0.501178157,Islands
+56,eez,56,Cape Verde,2011,0.469788657,Islands
+57,eez,57,Madeira,2011,0.552388727,Islands
+58,eez,58,Canary Islands,2011,0.540393747,Islands
+59,eez,59,Belgium,2011,0.390037677,Europe
+60,eez,60,Gibraltar,2011,0.500999987,Europe
+61,eez,61,Tunisia,2011,0.505185244,Africa
+62,eez,62,Morocco,2011,0.536920383,Africa
+63,eez,63,Western Sahara,2011,0.42623955,Africa
+64,eez,64,Mauritania,2011,0.412246295,Africa
+65,eez,65,Gambia,2011,0.430920584,Africa
+66,eez,66,Senegal,2011,0.437182405,Africa
+67,eez,67,Libya,2011,0.505217737,Africa
+68,eez,68,Malta,2011,0.504999995,Europe
+69,eez,69,Latvia,2011,0.449000001,Europe
+70,eez,70,Estonia,2011,0.445285474,Europe
+71,eez,71,Bulgaria,2011,0.404000014,Europe
+72,eez,72,Romania,2011,0.404000014,Europe
+73,eez,73,Russia,2011,0.512367729,Europe
+74,eez,74,Georgia,2011,0.465062456,Europe
+75,eez,75,Ukraine,2011,0.361715147,Europe
+76,eez,76,Turkey,2011,0.44915831,Europe
+77,eez,77,Syria,2011,0.625999987,Middle East
+78,eez,78,Lebanon,2011,0.625999987,Middle East
+79,eez,79,Israel,2011,0.625999987,Middle East
+80,eez,80,Greece,2011,0.48684432,Europe
+81,eez,81,Cyprus,2011,0.625999987,Europe
+82,eez,82,Albania,2011,0.408488363,Europe
+84,eez,84,Algeria,2011,0.506778008,Africa
+85,eez,85,Ascension,2011,0.456257899,Islands
+86,eez,86,Saint Helena,2011,0.499361597,Islands
+88,eez,88,Tristan da Cunha,2011,0.452872534,Islands
+89,eez,89,South Georgia and the South Sandwich Islands,2011,0.377027195,Islands
+90,eez,90,Prince Edward Islands,2011,0.298144242,Islands
+91,eez,91,Crozet Islands,2011,0.329387123,Islands
+92,eez,92,Amsterdam Island and Saint Paul Island,2011,0.477903716,Islands
+93,eez,93,Kerguelen Islands,2011,0.283442489,Islands
+94,eez,94,Heard and McDonald Islands,2011,0.280001815,Islands
+95,eez,95,Falkland Islands,2011,0.392140661,Islands
+96,eez,96,Sierra Leone,2011,0.496015842,Africa
+97,eez,97,Liberia,2011,0.495166401,Africa
+98,eez,98,Togo,2011,0.487384152,Africa
+99,eez,99,Benin,2011,0.488803879,Africa
+100,eez,100,Republique du Congo,2011,0.589481935,Africa
+101,eez,101,Namibia,2011,0.336758808,Africa
+102,eez,102,South Africa,2011,0.552746054,Africa
+103,eez,103,Sao Tome and Principe,2011,0.52743199,Islands
+104,eez,104,Equatorial Guinea,2011,0.51311388,Africa
+105,eez,105,Bouvet Island,2011,0.31693553,Islands
+106,eez,106,Ghana,2011,0.488549394,Africa
+107,eez,107,Clipperton Island,2011,0.316448891,Islands
+108,eez,108,Bermuda,2011,0.543766697,Caribbean
+110,eez,110,Bahamas,2011,0.565193876,Caribbean
+111,eez,111,Turks and Caicos Islands,2011,0.582092405,Caribbean
+112,eez,112,Cuba,2011,0.562212737,Caribbean
+113,eez,113,Cayman Islands,2011,0.557307938,Caribbean
+114,eez,114,Haiti,2011,0.568602783,Caribbean
+115,eez,115,Dominican Republic,2011,0.582755718,Caribbean
+117,eez,117,British Virgin Islands,2011,0.606121731,Caribbean
+118,eez,118,Anguilla,2011,0.610994906,Caribbean
+119,eez,119,Saint Kitts and Nevis,2011,0.60590626,Caribbean
+120,eez,120,Antigua and Barbuda,2011,0.610841976,Caribbean
+121,eez,121,Montserrat,2011,0.602754659,Caribbean
+122,eez,122,Saint Lucia,2011,0.577768814,Caribbean
+123,eez,123,Dominica,2011,0.596592613,Caribbean
+124,eez,124,Barbados,2011,0.586619389,Caribbean
+125,eez,125,Grenada,2011,0.54835462,Caribbean
+126,eez,126,Trinidad and Tobago,2011,0.546596834,Caribbean
+127,eez,127,Saint Vincent and the Grenadines,2011,0.565407802,Caribbean
+129,eez,129,Panama,2011,0.414770592,Central America
+130,eez,130,Costa Rica,2011,0.272655505,Central America
+131,eez,131,Nicaragua,2011,0.475768551,Central America
+132,eez,132,Colombia,2011,0.417525964,South America
+133,eez,133,Honduras,2011,0.555530859,Central America
+134,eez,134,El Salvador,2011,0.267288647,Central America
+135,eez,135,Mexico,2011,0.491165366,North America
+136,eez,136,Guatemala,2011,0.255625754,Central America
+137,eez,137,Ecuador,2011,0.193886508,South America
+138,eez,138,Peru,2011,0.244356017,South America
+139,eez,139,Venezuela,2011,0.544221815,South America
+141,eez,141,Faeroe Islands,2011,0.446445539,Europe
+143,eez,143,Iceland,2011,0.489344658,Europe
+144,eez,144,Jan Mayen,2011,0.497592164,Europe
+145,eez,145,Greenland,2011,0.523232354,Europe
+146,eez,146,Pitcairn,2011,0.656519782,Oceania
+147,eez,147,French Polynesia,2011,0.606938605,Oceania
+148,eez,148,Line Group,2011,0.386867947,Oceania
+149,eez,149,Jarvis Island,2011,0.26298202,Oceania
+150,eez,150,Palmyra Atoll,2011,0.488062812,Oceania
+151,eez,151,American Samoa,2011,0.617387154,Oceania
+152,eez,152,Samoa,2011,0.619001551,Oceania
+153,eez,153,Cook Islands,2011,0.592202224,Oceania
+154,eez,154,Niue,2011,0.644564246,Oceania
+155,eez,155,Tonga,2011,0.639986635,Oceania
+156,eez,156,Tokelau,2011,0.555119327,Oceania
+157,eez,157,Phoenix Group,2011,0.389704129,Oceania
+158,eez,158,Howland Island and Baker Island,2011,0.280200238,Oceania
+159,eez,159,Johnston Atoll,2011,0.559950738,Oceania
+161,eez,161,Wallis and Futuna,2011,0.618339165,Oceania
+162,eez,162,New Zealand,2011,0.503237511,Oceania
+163,eez,163,United States,2011,0.454663807,North America
+164,eez,164,Belize,2011,0.559041216,Central America
+166,eez,166,Jamaica,2011,0.561492421,Caribbean
+167,eez,167,Guyana,2011,0.539920867,South America
+168,eez,168,Suriname,2011,0.533111581,South America
+169,eez,169,French Guiana,2011,0.527563891,South America
+171,eez,171,Brazil,2011,0.522515637,South America
+172,eez,172,Argentina,2011,0.443005015,South America
+173,eez,173,Uruguay,2011,0.612567444,South America
+174,eez,174,Finland,2011,0.447422219,Europe
+175,eez,175,Denmark,2011,0.445583965,Europe
+176,eez,176,Germany,2011,0.419767762,Europe
+177,eez,177,Netherlands,2011,0.40821758,Europe
+178,eez,178,Poland,2011,0.448512387,Europe
+179,eez,179,France,2011,0.499668641,Europe
+180,eez,180,United Kingdom,2011,0.493948419,Europe
+181,eez,181,Ireland,2011,0.514621369,Europe
+182,eez,182,Spain,2011,0.503268166,Europe
+183,eez,183,Portugal,2011,0.53421574,Europe
+184,eez,184,Italy,2011,0.496036448,Europe
+185,eez,185,Monaco,2011,0.504999995,Europe
+186,eez,186,Montenegro,2011,0.395000011,Europe
+187,eez,187,Croatia,2011,0.395000011,Europe
+188,eez,188,Slovenia,2011,0.395000011,Europe
+189,eez,189,Lithuania,2011,0.449000001,Europe
+190,eez,190,Qatar,2011,0.607765018,Middle East
+191,eez,191,Iran,2011,0.608074053,Middle East
+192,eez,192,Iraq,2011,0.625999987,Middle East
+193,eez,193,Guinea Bissau,2011,0.475660296,Africa
+194,eez,194,Guinea,2011,0.486760682,Africa
+195,eez,195,Ivory Coast,2011,0.487704204,Africa
+196,eez,196,Nigeria,2011,0.502945106,Africa
+197,eez,197,Cameroon,2011,0.552201284,Africa
+198,eez,198,Gabon,2011,0.530403008,Africa
+199,eez,199,Democratic Republic of the Congo,2011,0.607134421,Africa
+200,eez,200,Angola,2011,0.479493626,Africa
+202,eez,202,Tanzania,2011,0.508900304,Africa
+203,eez,203,India,2011,0.534779385,Asia
+204,eez,204,Bangladesh,2011,0.422943376,Asia
+205,eez,205,Myanmar,2011,0.492471045,Asia
+206,eez,206,Malaysia,2011,0.659899572,Asia
+207,eez,207,Vietnam,2011,0.65691334,Asia
+208,eez,208,Singapore,2011,0.7146164,Asia
+209,eez,209,China,2011,0.533298672,Asia
+210,eez,210,Japan,2011,0.598348272,Asia
+212,eez,212,Kiribati,2011,0.384027953,Oceania
+214,eez,214,Egypt,2011,0.586153447,Africa
+215,eez,215,Jordan,2011,0.625999987,Middle East
+216,eez,216,Indonesia,2011,0.637814745,Asia
+218,eez,218,Canada,2011,0.62729489,North America
+219,eez,219,Saint Pierre and Miquelon,2011,0.091765201,North America
+220,eez,220,Sint Maarten,2011,0.610000014,Caribbean
+221,eez,221,Northern Saint-Martin,2011,0.609900503,Caribbean
+222,eez,222,Sweden,2011,0.456258308,Europe
+223,eez,223,Norway,2011,0.471548998,Europe
+224,eez,224,Chile,2011,0.370098128,South America
+227,eez,227,Jersey,2011,0.495779082,Islands
+228,eez,228,Guernsey,2011,0.497469873,Islands
+231,eez,231,East Timor,2011,0.635080376,Oceania
+232,eez,232,Bosnia and Herzegovina,2011,0.395000011,Europe
+237,eez,237,Oecussi Ambeno,2011,0.634544821,Asia
+244,eez,244,Curacao,2011,0.543947561,Caribbean
+245,eez,245,Bonaire,2011,0.534301446,Caribbean
+247,eez,247,Brunei,2011,0.662579626,Asia
+248,eez,248,Saba,2011,0.606860979,Caribbean
+249,eez,249,Sint Eustatius,2011,0.607457897,Caribbean
+250,eez,250,Aruba,2011,0.542482487,Caribbean
+251,eez,140,Guadeloupe and Martinique,2011,0.600977703,Caribbean
+255,eez,116,Puerto Rico and Virgin Islands of the United States,2011,0.595290549,Caribbean
+1018,fao,260,Arctic Sea,2011,0.508142814,Arctic
+1021,fao,261,"Atlantic, Northwest",2011,0.477797482,"Atlantic, Northwest"
+1027,fao,262,"Atlantic, Northeast",2011,0.597796859,"Atlantic, Northeast"
+1031,fao,263,"Atlantic, Western-Central",2011,0.577489763,"Atlantic, Western-Central"
+1034,fao,264,"Atlantic, Eastern Central",2011,0.518464215,"Atlantic, Eastern Central"
+1041,fao,266,"Atlantic, Southwest",2011,0.504493128,"Atlantic, Southwest"
+1047,fao,267,"Atlantic, Southeast",2011,0.444742247,"Atlantic, Southeast"
+1051,fao,269,"Indian Ocean, Western",2011,0.545009638,"Indian Ocean, Western"
+1057,fao,270,"Indian Ocean, Eastern",2011,0.512863862,"Indian Ocean, Eastern"
+1061,fao,272,"Pacific, Northwest",2011,0.582490181,"Pacific, Northwest"
+1067,fao,273,"Pacific, Northeast",2011,0.39893887,"Pacific, Northeast"
+1071,fao,274,"Pacific, Western Central",2011,0.608582313,"Pacific, Western Central"
+1077,fao,275,"Pacific, Eastern Central",2011,0.450713083,"Pacific, Eastern Central"
+1081,fao,276,"Pacific, Southwest",2011,0.506036735,"Pacific, Southwest"
+1087,fao,277,"Pacific, Southeast",2011,0.401709004,"Pacific, Southeast"
+248100,eez-ccamlr,213,Antarctica,2011,0.34499696,Antarctica
+248200,eez-ccamlr,213,Antarctica,2011,0.375620122,Antarctica
+248300,eez-ccamlr,213,Antarctica,2011,0.400138482,Antarctica
+248400,eez-ccamlr,213,Antarctica,2011,0.359065215,Antarctica
+248500,eez-ccamlr,213,Antarctica,2011,0.205384668,Antarctica
+248600,eez-ccamlr,213,Antarctica,2011,0.298083235,Antarctica
+258410,eez-ccamlr,213,Antarctica,2011,0.313618215,Antarctica
+258420,eez-ccamlr,213,Antarctica,2011,0.308723931,Antarctica
+258431,eez-ccamlr,213,Antarctica,2011,0.304267179,Antarctica
+258432,eez-ccamlr,213,Antarctica,2011,0.292668868,Antarctica
+258441,eez-ccamlr,213,Antarctica,2011,0.2936325,Antarctica
+258442,eez-ccamlr,213,Antarctica,2011,0.313499869,Antarctica
+258510,eez-ccamlr,213,Antarctica,2011,0.337195149,Antarctica
+258520,eez-ccamlr,213,Antarctica,2011,0.305778669,Antarctica
+258600,eez-ccamlr,213,Antarctica,2011,0.323227265,Antarctica
+258700,eez-ccamlr,213,Antarctica,2011,0.316167591,Antarctica
+288100,eez-ccamlr,213,Antarctica,2011,0.263223284,Antarctica
+288200,eez-ccamlr,213,Antarctica,2011,0.316641073,Antarctica
+288300,eez-ccamlr,213,Antarctica,2011,0.335940345,Antarctica
+0,eez,16,Australia,2012,0.601393088,Oceania
+1,eez,1,Cocos Islands,2012,0.559965039,Oceania
+2,eez,2,Christmas Island,2012,0.569464577,Oceania
+3,eez,3,Norfolk Island,2012,0.613934041,Oceania
+4,eez,4,Macquarie Island,2012,0.376915881,Oceania
+5,eez,5,New Caledonia,2012,0.670662832,Oceania
+6,eez,6,Vanuatu,2012,0.664043305,Oceania
+7,eez,7,Solomon Islands,2012,0.654685351,Oceania
+8,eez,8,Palau,2012,0.712579206,Oceania
+9,eez,9,Micronesia,2012,0.685451519,Oceania
+10,eez,10,Nauru,2012,0.528759157,Oceania
+11,eez,11,Marshall Islands,2012,0.638149861,Oceania
+12,eez,12,Wake Island,2012,0.601525919,Oceania
+13,eez,13,Northern Mariana Islands and Guam,2012,0.636046261,Oceania
+14,eez,14,Taiwan,2012,0.631319579,Asia
+15,eez,15,Philippines,2012,0.627607839,Asia
+17,eez,17,Papua New Guinea,2012,0.648162023,Oceania
+18,eez,18,Fiji,2012,0.655753669,Oceania
+19,eez,19,Tuvalu,2012,0.590091791,Oceania
+20,eez,20,South Korea,2012,0.491030816,Asia
+21,eez,21,North Korea,2012,0.444144767,Asia
+24,eez,24,Cambodia,2012,0.578535349,Asia
+25,eez,25,Thailand,2012,0.542411672,Asia
+26,eez,26,Andaman and Nicobar,2012,0.506424596,Islands
+28,eez,28,Comoro Islands,2012,0.564863416,Islands
+29,eez,29,Mayotte,2012,0.571119181,Islands
+30,eez,30,Glorioso Islands,2012,0.567517179,Islands
+31,eez,31,Seychelles,2012,0.551828565,Islands
+32,eez,32,Reunion,2012,0.612106446,Islands
+33,eez,33,Juan de Nova Island,2012,0.573053407,Islands
+34,eez,34,Bassas da India,2012,0.57726021,Islands
+35,eez,35,Ile Europa,2012,0.583993504,Islands
+36,eez,36,Ile Tromelin,2012,0.572877294,Islands
+37,eez,37,Mauritius,2012,0.577945732,Islands
+38,eez,38,British Indian Ocean Territory,2012,0.543188483,Islands
+39,eez,39,Maldives,2012,0.5434358,Islands
+40,eez,40,Sri Lanka,2012,0.521169891,Asia
+41,eez,41,Mozambique,2012,0.580755314,Africa
+42,eez,42,Madagascar,2012,0.594959529,Africa
+43,eez,43,Kenya,2012,0.545485647,Africa
+44,eez,44,Somalia,2012,0.526205464,Africa
+45,eez,45,Eritrea,2012,0.483990928,Africa
+46,eez,46,Djibouti,2012,0.483420692,Africa
+47,eez,47,Yemen,2012,0.509319815,Middle East
+48,eez,48,Oman,2012,0.553810874,Middle East
+49,eez,49,Sudan,2012,0.484970447,Africa
+50,eez,50,Saudi Arabia,2012,0.527283735,Middle East
+51,eez,51,Kuwait,2012,0.640999973,Middle East
+52,eez,52,Bahrain,2012,0.636311177,Middle East
+53,eez,53,Pakistan,2012,0.596333621,Asia
+54,eez,54,United Arab Emirates,2012,0.6170392,Middle East
+55,eez,55,Azores,2012,0.537161861,Islands
+56,eez,56,Cape Verde,2012,0.452204832,Islands
+57,eez,57,Madeira,2012,0.559498194,Islands
+58,eez,58,Canary Islands,2012,0.52864572,Islands
+59,eez,59,Belgium,2012,0.364387351,Europe
+60,eez,60,Gibraltar,2012,0.47299999,Europe
+61,eez,61,Tunisia,2012,0.530608937,Africa
+62,eez,62,Morocco,2012,0.505358495,Africa
+63,eez,63,Western Sahara,2012,0.396024956,Africa
+64,eez,64,Mauritania,2012,0.363200155,Africa
+65,eez,65,Gambia,2012,0.421030226,Africa
+66,eez,66,Senegal,2012,0.421127511,Africa
+67,eez,67,Libya,2012,0.530540341,Africa
+68,eez,68,Malta,2012,0.531000018,Europe
+69,eez,69,Latvia,2012,0.497000009,Europe
+70,eez,70,Estonia,2012,0.497337218,Europe
+71,eez,71,Bulgaria,2012,0.430000007,Europe
+72,eez,72,Romania,2012,0.430000007,Europe
+73,eez,73,Russia,2012,0.539036833,Europe
+74,eez,74,Georgia,2012,0.515048877,Europe
+75,eez,75,Ukraine,2012,0.422891308,Europe
+76,eez,76,Turkey,2012,0.487199234,Europe
+77,eez,77,Syria,2012,0.640999973,Middle East
+78,eez,78,Lebanon,2012,0.640999973,Middle East
+79,eez,79,Israel,2012,0.640999973,Middle East
+80,eez,80,Greece,2012,0.510835037,Europe
+81,eez,81,Cyprus,2012,0.640999973,Europe
+82,eez,82,Albania,2012,0.417818171,Europe
+84,eez,84,Algeria,2012,0.511898667,Africa
+85,eez,85,Ascension,2012,0.473076571,Islands
+86,eez,86,Saint Helena,2012,0.50968327,Islands
+88,eez,88,Tristan da Cunha,2012,0.462282329,Islands
+89,eez,89,South Georgia and the South Sandwich Islands,2012,0.347022878,Islands
+90,eez,90,Prince Edward Islands,2012,0.335269675,Islands
+91,eez,91,Crozet Islands,2012,0.366222218,Islands
+92,eez,92,Amsterdam Island and Saint Paul Island,2012,0.522352492,Islands
+93,eez,93,Kerguelen Islands,2012,0.341613842,Islands
+94,eez,94,Heard and McDonald Islands,2012,0.30497771,Islands
+95,eez,95,Falkland Islands,2012,0.423316577,Islands
+96,eez,96,Sierra Leone,2012,0.512059464,Africa
+97,eez,97,Liberia,2012,0.503218319,Africa
+98,eez,98,Togo,2012,0.485503091,Africa
+99,eez,99,Benin,2012,0.483681654,Africa
+100,eez,100,Republique du Congo,2012,0.739080896,Africa
+101,eez,101,Namibia,2012,0.324607669,Africa
+102,eez,102,South Africa,2012,0.581360896,Africa
+103,eez,103,Sao Tome and Principe,2012,0.496594441,Islands
+104,eez,104,Equatorial Guinea,2012,0.491863907,Africa
+105,eez,105,Bouvet Island,2012,0.346920967,Islands
+106,eez,106,Ghana,2012,0.489970374,Africa
+107,eez,107,Clipperton Island,2012,0.34559761,Islands
+108,eez,108,Bermuda,2012,0.590972972,Caribbean
+110,eez,110,Bahamas,2012,0.595095014,Caribbean
+111,eez,111,Turks and Caicos Islands,2012,0.589811399,Caribbean
+112,eez,112,Cuba,2012,0.588849046,Caribbean
+113,eez,113,Cayman Islands,2012,0.580013905,Caribbean
+114,eez,114,Haiti,2012,0.592950337,Caribbean
+115,eez,115,Dominican Republic,2012,0.590716124,Caribbean
+117,eez,117,British Virgin Islands,2012,0.605743372,Caribbean
+118,eez,118,Anguilla,2012,0.601952622,Caribbean
+119,eez,119,Saint Kitts and Nevis,2012,0.597564899,Caribbean
+120,eez,120,Antigua and Barbuda,2012,0.600238834,Caribbean
+121,eez,121,Montserrat,2012,0.596642251,Caribbean
+122,eez,122,Saint Lucia,2012,0.586971642,Caribbean
+123,eez,123,Dominica,2012,0.595176319,Caribbean
+124,eez,124,Barbados,2012,0.594489338,Caribbean
+125,eez,125,Grenada,2012,0.563045261,Caribbean
+126,eez,126,Trinidad and Tobago,2012,0.562302068,Caribbean
+127,eez,127,Saint Vincent and the Grenadines,2012,0.579504782,Caribbean
+129,eez,129,Panama,2012,0.470901236,Central America
+130,eez,130,Costa Rica,2012,0.369714989,Central America
+131,eez,131,Nicaragua,2012,0.522909015,Central America
+132,eez,132,Colombia,2012,0.466841239,South America
+133,eez,133,Honduras,2012,0.571834574,Central America
+134,eez,134,El Salvador,2012,0.392902246,Central America
+135,eez,135,Mexico,2012,0.528559989,North America
+136,eez,136,Guatemala,2012,0.359239439,Central America
+137,eez,137,Ecuador,2012,0.394297542,South America
+138,eez,138,Peru,2012,0.380494656,South America
+139,eez,139,Venezuela,2012,0.540640451,South America
+141,eez,141,Faeroe Islands,2012,0.476749303,Europe
+143,eez,143,Iceland,2012,0.479976197,Europe
+144,eez,144,Jan Mayen,2012,0.538077773,Europe
+145,eez,145,Greenland,2012,0.525056858,Europe
+146,eez,146,Pitcairn,2012,0.618301299,Oceania
+147,eez,147,French Polynesia,2012,0.591439768,Oceania
+148,eez,148,Line Group,2012,0.459957906,Oceania
+149,eez,149,Jarvis Island,2012,0.401257349,Oceania
+150,eez,150,Palmyra Atoll,2012,0.562079858,Oceania
+151,eez,151,American Samoa,2012,0.62219709,Oceania
+152,eez,152,Samoa,2012,0.622222219,Oceania
+153,eez,153,Cook Islands,2012,0.601168825,Oceania
+154,eez,154,Niue,2012,0.644504781,Oceania
+155,eez,155,Tonga,2012,0.649985193,Oceania
+156,eez,156,Tokelau,2012,0.577502796,Oceania
+157,eez,157,Phoenix Group,2012,0.481183003,Oceania
+158,eez,158,Howland Island and Baker Island,2012,0.442020134,Oceania
+159,eez,159,Johnston Atoll,2012,0.561428732,Oceania
+161,eez,161,Wallis and Futuna,2012,0.628477595,Oceania
+162,eez,162,New Zealand,2012,0.52315943,Oceania
+163,eez,163,United States,2012,0.468393064,North America
+164,eez,164,Belize,2012,0.575147552,Central America
+166,eez,166,Jamaica,2012,0.576552334,Caribbean
+167,eez,167,Guyana,2012,0.559595554,South America
+168,eez,168,Suriname,2012,0.562343394,South America
+169,eez,169,French Guiana,2012,0.570031448,South America
+171,eez,171,Brazil,2012,0.547903269,South America
+172,eez,172,Argentina,2012,0.491474603,South America
+173,eez,173,Uruguay,2012,0.634346078,South America
+174,eez,174,Finland,2012,0.49454465,Europe
+175,eez,175,Denmark,2012,0.493644902,Europe
+176,eez,176,Germany,2012,0.454032366,Europe
+177,eez,177,Netherlands,2012,0.420386335,Europe
+178,eez,178,Poland,2012,0.496274005,Europe
+179,eez,179,France,2012,0.512675295,Europe
+180,eez,180,United Kingdom,2012,0.520137326,Europe
+181,eez,181,Ireland,2012,0.538198747,Europe
+182,eez,182,Spain,2012,0.515465478,Europe
+183,eez,183,Portugal,2012,0.533459708,Europe
+184,eez,184,Italy,2012,0.52048822,Europe
+185,eez,185,Monaco,2012,0.531000018,Europe
+186,eez,186,Montenegro,2012,0.40200001,Europe
+187,eez,187,Croatia,2012,0.40200001,Europe
+188,eez,188,Slovenia,2012,0.40200001,Europe
+189,eez,189,Lithuania,2012,0.497000009,Europe
+190,eez,190,Qatar,2012,0.628132649,Middle East
+191,eez,191,Iran,2012,0.622038054,Middle East
+192,eez,192,Iraq,2012,0.640999973,Middle East
+193,eez,193,Guinea Bissau,2012,0.475527835,Africa
+194,eez,194,Guinea,2012,0.496597092,Africa
+195,eez,195,Ivory Coast,2012,0.492788254,Africa
+196,eez,196,Nigeria,2012,0.490355495,Africa
+197,eez,197,Cameroon,2012,0.534861946,Africa
+198,eez,198,Gabon,2012,0.54336637,Africa
+199,eez,199,Democratic Republic of the Congo,2012,0.849883712,Africa
+200,eez,200,Angola,2012,0.593632958,Africa
+202,eez,202,Tanzania,2012,0.551944981,Africa
+203,eez,203,India,2012,0.527461969,Asia
+204,eez,204,Bangladesh,2012,0.425692373,Asia
+205,eez,205,Myanmar,2012,0.455952851,Asia
+206,eez,206,Malaysia,2012,0.583123079,Asia
+207,eez,207,Vietnam,2012,0.603150818,Asia
+208,eez,208,Singapore,2012,0.694117738,Asia
+209,eez,209,China,2012,0.532005176,Asia
+210,eez,210,Japan,2012,0.583660851,Asia
+212,eez,212,Kiribati,2012,0.501894187,Oceania
+214,eez,214,Egypt,2012,0.606868475,Africa
+215,eez,215,Jordan,2012,0.640999973,Middle East
+216,eez,216,Indonesia,2012,0.59496955,Asia
+218,eez,218,Canada,2012,0.644024141,North America
+219,eez,219,Saint Pierre and Miquelon,2012,0.196125132,North America
+220,eez,220,Sint Maarten,2012,0.600000024,Caribbean
+221,eez,221,Northern Saint-Martin,2012,0.599987821,Caribbean
+222,eez,222,Sweden,2012,0.500085318,Europe
+223,eez,223,Norway,2012,0.491294537,Europe
+224,eez,224,Chile,2012,0.409433171,South America
+227,eez,227,Jersey,2012,0.445337266,Islands
+228,eez,228,Guernsey,2012,0.445664845,Islands
+231,eez,231,East Timor,2012,0.578448742,Oceania
+232,eez,232,Bosnia and Herzegovina,2012,0.40200001,Europe
+237,eez,237,Oecussi Ambeno,2012,0.612999976,Asia
+244,eez,244,Curacao,2012,0.53933219,Caribbean
+245,eez,245,Bonaire,2012,0.525968805,Caribbean
+247,eez,247,Brunei,2012,0.569757809,Asia
+248,eez,248,Saba,2012,0.598900319,Caribbean
+249,eez,249,Sint Eustatius,2012,0.598228926,Caribbean
+250,eez,250,Aruba,2012,0.537990883,Caribbean
+251,eez,140,Guadeloupe and Martinique,2012,0.596959988,Caribbean
+255,eez,116,Puerto Rico and Virgin Islands of the United States,2012,0.599991141,Caribbean
+1018,fao,260,Arctic Sea,2012,0.55458965,Arctic
+1021,fao,261,"Atlantic, Northwest",2012,0.543796488,"Atlantic, Northwest"
+1027,fao,262,"Atlantic, Northeast",2012,0.612875783,"Atlantic, Northeast"
+1031,fao,263,"Atlantic, Western-Central",2012,0.583259554,"Atlantic, Western-Central"
+1034,fao,264,"Atlantic, Eastern Central",2012,0.522099113,"Atlantic, Eastern Central"
+1041,fao,266,"Atlantic, Southwest",2012,0.518178053,"Atlantic, Southwest"
+1047,fao,267,"Atlantic, Southeast",2012,0.465366682,"Atlantic, Southeast"
+1051,fao,269,"Indian Ocean, Western",2012,0.561213792,"Indian Ocean, Western"
+1057,fao,270,"Indian Ocean, Eastern",2012,0.500285219,"Indian Ocean, Eastern"
+1061,fao,272,"Pacific, Northwest",2012,0.581520694,"Pacific, Northwest"
+1067,fao,273,"Pacific, Northeast",2012,0.454477222,"Pacific, Northeast"
+1071,fao,274,"Pacific, Western Central",2012,0.615094608,"Pacific, Western Central"
+1077,fao,275,"Pacific, Eastern Central",2012,0.493382344,"Pacific, Eastern Central"
+1081,fao,276,"Pacific, Southwest",2012,0.50550918,"Pacific, Southwest"
+1087,fao,277,"Pacific, Southeast",2012,0.433888899,"Pacific, Southeast"
+248100,eez-ccamlr,213,Antarctica,2012,0.361430146,Antarctica
+248200,eez-ccamlr,213,Antarctica,2012,0.356849107,Antarctica
+248300,eez-ccamlr,213,Antarctica,2012,0.382480588,Antarctica
+248400,eez-ccamlr,213,Antarctica,2012,0.31149186,Antarctica
+248500,eez-ccamlr,213,Antarctica,2012,0.216445077,Antarctica
+248600,eez-ccamlr,213,Antarctica,2012,0.315498559,Antarctica
+258410,eez-ccamlr,213,Antarctica,2012,0.31324024,Antarctica
+258420,eez-ccamlr,213,Antarctica,2012,0.299405923,Antarctica
+258431,eez-ccamlr,213,Antarctica,2012,0.306444387,Antarctica
+258432,eez-ccamlr,213,Antarctica,2012,0.296336071,Antarctica
+258441,eez-ccamlr,213,Antarctica,2012,0.337558244,Antarctica
+258442,eez-ccamlr,213,Antarctica,2012,0.325001318,Antarctica
+258510,eez-ccamlr,213,Antarctica,2012,0.367336811,Antarctica
+258520,eez-ccamlr,213,Antarctica,2012,0.311888168,Antarctica
+258600,eez-ccamlr,213,Antarctica,2012,0.356374867,Antarctica
+258700,eez-ccamlr,213,Antarctica,2012,0.345812271,Antarctica
+288100,eez-ccamlr,213,Antarctica,2012,0.255501829,Antarctica
+288200,eez-ccamlr,213,Antarctica,2012,0.315542864,Antarctica
+288300,eez-ccamlr,213,Antarctica,2012,0.337135596,Antarctica
+0,eez,16,Australia,2013,0.608782904,Oceania
+1,eez,1,Cocos Islands,2013,0.577417112,Oceania
+2,eez,2,Christmas Island,2013,0.579601294,Oceania
+3,eez,3,Norfolk Island,2013,0.649094139,Oceania
+4,eez,4,Macquarie Island,2013,0.372311517,Oceania
+5,eez,5,New Caledonia,2013,0.672882422,Oceania
+6,eez,6,Vanuatu,2013,0.647657709,Oceania
+7,eez,7,Solomon Islands,2013,0.617474579,Oceania
+8,eez,8,Palau,2013,0.625562512,Oceania
+9,eez,9,Micronesia,2013,0.612889994,Oceania
+10,eez,10,Nauru,2013,0.591670883,Oceania
+11,eez,11,Marshall Islands,2013,0.613656048,Oceania
+12,eez,12,Wake Island,2013,0.60020983,Oceania
+13,eez,13,Northern Mariana Islands and Guam,2013,0.619486057,Oceania
+14,eez,14,Taiwan,2013,0.694140957,Asia
+15,eez,15,Philippines,2013,0.617356265,Asia
+17,eez,17,Papua New Guinea,2013,0.595346729,Oceania
+18,eez,18,Fiji,2013,0.649202427,Oceania
+19,eez,19,Tuvalu,2013,0.644267487,Oceania
+20,eez,20,South Korea,2013,0.532380262,Asia
+21,eez,21,North Korea,2013,0.507969395,Asia
+24,eez,24,Cambodia,2013,0.602703259,Asia
+25,eez,25,Thailand,2013,0.551234449,Asia
+26,eez,26,Andaman and Nicobar,2013,0.440470196,Islands
+28,eez,28,Comoro Islands,2013,0.620182553,Islands
+29,eez,29,Mayotte,2013,0.629376891,Islands
+30,eez,30,Glorioso Islands,2013,0.623888375,Islands
+31,eez,31,Seychelles,2013,0.592662976,Islands
+32,eez,32,Reunion,2013,0.651652525,Islands
+33,eez,33,Juan de Nova Island,2013,0.604595883,Islands
+34,eez,34,Bassas da India,2013,0.602901203,Islands
+35,eez,35,Ile Europa,2013,0.604945696,Islands
+36,eez,36,Ile Tromelin,2013,0.61813495,Islands
+37,eez,37,Mauritius,2013,0.636757124,Islands
+38,eez,38,British Indian Ocean Territory,2013,0.564100368,Islands
+39,eez,39,Maldives,2013,0.533327595,Islands
+40,eez,40,Sri Lanka,2013,0.505993257,Asia
+41,eez,41,Mozambique,2013,0.60749166,Africa
+42,eez,42,Madagascar,2013,0.622242605,Africa
+43,eez,43,Kenya,2013,0.589059271,Africa
+44,eez,44,Somalia,2013,0.565332204,Africa
+45,eez,45,Eritrea,2013,0.548654571,Africa
+46,eez,46,Djibouti,2013,0.546179111,Africa
+47,eez,47,Yemen,2013,0.564183092,Middle East
+48,eez,48,Oman,2013,0.557410223,Middle East
+49,eez,49,Sudan,2013,0.549960589,Africa
+50,eez,50,Saudi Arabia,2013,0.569616036,Middle East
+51,eez,51,Kuwait,2013,0.633000016,Middle East
+52,eez,52,Bahrain,2013,0.629946603,Middle East
+53,eez,53,Pakistan,2013,0.603843658,Asia
+54,eez,54,United Arab Emirates,2013,0.616841684,Middle East
+55,eez,55,Azores,2013,0.497923786,Islands
+56,eez,56,Cape Verde,2013,0.496121284,Islands
+57,eez,57,Madeira,2013,0.579816743,Islands
+58,eez,58,Canary Islands,2013,0.591261274,Islands
+59,eez,59,Belgium,2013,0.42796611,Europe
+60,eez,60,Gibraltar,2013,0.488000005,Europe
+61,eez,61,Tunisia,2013,0.495061754,Africa
+62,eez,62,Morocco,2013,0.53199309,Africa
+63,eez,63,Western Sahara,2013,0.506769602,Africa
+64,eez,64,Mauritania,2013,0.45236106,Africa
+65,eez,65,Gambia,2013,0.509519848,Africa
+66,eez,66,Senegal,2013,0.504374397,Africa
+67,eez,67,Libya,2013,0.495072585,Africa
+68,eez,68,Malta,2013,0.495000005,Europe
+69,eez,69,Latvia,2013,0.573000014,Europe
+70,eez,70,Estonia,2013,0.566100319,Europe
+71,eez,71,Bulgaria,2013,0.467999995,Europe
+72,eez,72,Romania,2013,0.467999995,Europe
+73,eez,73,Russia,2013,0.535928849,Europe
+74,eez,74,Georgia,2013,0.48874831,Europe
+75,eez,75,Ukraine,2013,0.416056539,Europe
+76,eez,76,Turkey,2013,0.488541099,Europe
+77,eez,77,Syria,2013,0.633000016,Middle East
+78,eez,78,Lebanon,2013,0.633000016,Middle East
+79,eez,79,Israel,2013,0.633000016,Middle East
+80,eez,80,Greece,2013,0.496673344,Europe
+81,eez,81,Cyprus,2013,0.633000016,Europe
+82,eez,82,Albania,2013,0.466046518,Europe
+84,eez,84,Algeria,2013,0.494474818,Africa
+85,eez,85,Ascension,2013,0.513105017,Islands
+86,eez,86,Saint Helena,2013,0.535245316,Islands
+88,eez,88,Tristan da Cunha,2013,0.461667952,Islands
+89,eez,89,South Georgia and the South Sandwich Islands,2013,0.340422219,Islands
+90,eez,90,Prince Edward Islands,2013,0.351121885,Islands
+91,eez,91,Crozet Islands,2013,0.367555571,Islands
+92,eez,92,Amsterdam Island and Saint Paul Island,2013,0.496240817,Islands
+93,eez,93,Kerguelen Islands,2013,0.316101573,Islands
+94,eez,94,Heard and McDonald Islands,2013,0.292180728,Islands
+95,eez,95,Falkland Islands,2013,0.38504414,Islands
+96,eez,96,Sierra Leone,2013,0.557941378,Africa
+97,eez,97,Liberia,2013,0.542334178,Africa
+98,eez,98,Togo,2013,0.525015698,Africa
+99,eez,99,Benin,2013,0.526737354,Africa
+100,eez,100,Republique du Congo,2013,0.487587354,Africa
+101,eez,101,Namibia,2013,0.477479262,Africa
+102,eez,102,South Africa,2013,0.5757189,Africa
+103,eez,103,Sao Tome and Principe,2013,0.52488824,Islands
+104,eez,104,Equatorial Guinea,2013,0.493362749,Africa
+105,eez,105,Bouvet Island,2013,0.306281356,Islands
+106,eez,106,Ghana,2013,0.523208981,Africa
+107,eez,107,Clipperton Island,2013,0.447179198,Islands
+108,eez,108,Bermuda,2013,0.588490607,Caribbean
+110,eez,110,Bahamas,2013,0.614296523,Caribbean
+111,eez,111,Turks and Caicos Islands,2013,0.616860174,Caribbean
+112,eez,112,Cuba,2013,0.613116231,Caribbean
+113,eez,113,Cayman Islands,2013,0.608480481,Caribbean
+114,eez,114,Haiti,2013,0.63198664,Caribbean
+115,eez,115,Dominican Republic,2013,0.627154359,Caribbean
+117,eez,117,British Virgin Islands,2013,0.636282016,Caribbean
+118,eez,118,Anguilla,2013,0.638705285,Caribbean
+119,eez,119,Saint Kitts and Nevis,2013,0.637402867,Caribbean
+120,eez,120,Antigua and Barbuda,2013,0.641621625,Caribbean
+121,eez,121,Montserrat,2013,0.636694449,Caribbean
+122,eez,122,Saint Lucia,2013,0.623244543,Caribbean
+123,eez,123,Dominica,2013,0.633883421,Caribbean
+124,eez,124,Barbados,2013,0.630872016,Caribbean
+125,eez,125,Grenada,2013,0.602769753,Caribbean
+126,eez,126,Trinidad and Tobago,2013,0.601486646,Caribbean
+127,eez,127,Saint Vincent and the Grenadines,2013,0.616906431,Caribbean
+129,eez,129,Panama,2013,0.55347723,Central America
+130,eez,130,Costa Rica,2013,0.519029207,Central America
+131,eez,131,Nicaragua,2013,0.577241374,Central America
+132,eez,132,Colombia,2013,0.541711012,South America
+133,eez,133,Honduras,2013,0.601822719,Central America
+134,eez,134,El Salvador,2013,0.519220653,Central America
+135,eez,135,Mexico,2013,0.569854531,North America
+136,eez,136,Guatemala,2013,0.485209681,Central America
+137,eez,137,Ecuador,2013,0.489213984,South America
+138,eez,138,Peru,2013,0.544838005,South America
+139,eez,139,Venezuela,2013,0.586440366,South America
+141,eez,141,Faeroe Islands,2013,0.483740566,Europe
+143,eez,143,Iceland,2013,0.462586048,Europe
+144,eez,144,Jan Mayen,2013,0.521031907,Europe
+145,eez,145,Greenland,2013,0.505020244,Europe
+146,eez,146,Pitcairn,2013,0.627348374,Oceania
+147,eez,147,French Polynesia,2013,0.630204118,Oceania
+148,eez,148,Line Group,2013,0.550937522,Oceania
+149,eez,149,Jarvis Island,2013,0.533533875,Oceania
+150,eez,150,Palmyra Atoll,2013,0.613091705,Oceania
+151,eez,151,American Samoa,2013,0.663772061,Oceania
+152,eez,152,Samoa,2013,0.660945566,Oceania
+153,eez,153,Cook Islands,2013,0.638387211,Oceania
+154,eez,154,Niue,2013,0.641316539,Oceania
+155,eez,155,Tonga,2013,0.63467359,Oceania
+156,eez,156,Tokelau,2013,0.667592216,Oceania
+157,eez,157,Phoenix Group,2013,0.574296739,Oceania
+158,eez,158,Howland Island and Baker Island,2013,0.592196005,Oceania
+159,eez,159,Johnston Atoll,2013,0.572392132,Oceania
+161,eez,161,Wallis and Futuna,2013,0.665476109,Oceania
+162,eez,162,New Zealand,2013,0.50957234,Oceania
+163,eez,163,United States,2013,0.487326285,North America
+164,eez,164,Belize,2013,0.6027335,Central America
+166,eez,166,Jamaica,2013,0.613615844,Caribbean
+167,eez,167,Guyana,2013,0.598813214,South America
+168,eez,168,Suriname,2013,0.60103765,South America
+169,eez,169,French Guiana,2013,0.605547749,South America
+171,eez,171,Brazil,2013,0.574798961,South America
+172,eez,172,Argentina,2013,0.432402973,South America
+173,eez,173,Uruguay,2013,0.603563901,South America
+174,eez,174,Finland,2013,0.542433786,Europe
+175,eez,175,Denmark,2013,0.507250047,Europe
+176,eez,176,Germany,2013,0.483606809,Europe
+177,eez,177,Netherlands,2013,0.466086859,Europe
+178,eez,178,Poland,2013,0.571862247,Europe
+179,eez,179,France,2013,0.497666483,Europe
+180,eez,180,United Kingdom,2013,0.524312042,Europe
+181,eez,181,Ireland,2013,0.539979657,Europe
+182,eez,182,Spain,2013,0.515776878,Europe
+183,eez,183,Portugal,2013,0.543282386,Europe
+184,eez,184,Italy,2013,0.492310941,Europe
+185,eez,185,Monaco,2013,0.495000005,Europe
+186,eez,186,Montenegro,2013,0.462000012,Europe
+187,eez,187,Croatia,2013,0.462000012,Europe
+188,eez,188,Slovenia,2013,0.462000012,Europe
+189,eez,189,Lithuania,2013,0.573000014,Europe
+190,eez,190,Qatar,2013,0.624697422,Middle East
+191,eez,191,Iran,2013,0.623801909,Middle East
+192,eez,192,Iraq,2013,0.633000016,Middle East
+193,eez,193,Guinea Bissau,2013,0.542217416,Africa
+194,eez,194,Guinea,2013,0.555265883,Africa
+195,eez,195,Ivory Coast,2013,0.526368053,Africa
+196,eez,196,Nigeria,2013,0.535912202,Africa
+197,eez,197,Cameroon,2013,0.560058264,Africa
+198,eez,198,Gabon,2013,0.490321333,Africa
+199,eez,199,Democratic Republic of the Congo,2013,0.502462394,Africa
+200,eez,200,Angola,2013,0.494167402,Africa
+202,eez,202,Tanzania,2013,0.602830542,Africa
+203,eez,203,India,2013,0.569763762,Asia
+204,eez,204,Bangladesh,2013,0.571960673,Asia
+205,eez,205,Myanmar,2013,0.451028897,Asia
+206,eez,206,Malaysia,2013,0.608496681,Asia
+207,eez,207,Vietnam,2013,0.657294055,Asia
+208,eez,208,Singapore,2013,0.676683859,Asia
+209,eez,209,China,2013,0.599154109,Asia
+210,eez,210,Japan,2013,0.609150579,Asia
+212,eez,212,Kiribati,2013,0.599983634,Oceania
+214,eez,214,Egypt,2013,0.606773021,Africa
+215,eez,215,Jordan,2013,0.633000016,Middle East
+216,eez,216,Indonesia,2013,0.568826058,Asia
+218,eez,218,Canada,2013,0.631445549,North America
+219,eez,219,Saint Pierre and Miquelon,2013,0.14381548,North America
+220,eez,220,Sint Maarten,2013,0.638999999,Caribbean
+221,eez,221,Northern Saint-Martin,2013,0.639081624,Caribbean
+222,eez,222,Sweden,2013,0.564895009,Europe
+223,eez,223,Norway,2013,0.495739098,Europe
+224,eez,224,Chile,2013,0.421040902,South America
+227,eez,227,Jersey,2013,0.443337268,Islands
+228,eez,228,Guernsey,2013,0.445099262,Islands
+231,eez,231,East Timor,2013,0.577076979,Oceania
+232,eez,232,Bosnia and Herzegovina,2013,0.462000012,Europe
+237,eez,237,Oecussi Ambeno,2013,0.576818412,Asia
+244,eez,244,Curacao,2013,0.586707002,Caribbean
+245,eez,245,Bonaire,2013,0.576845949,Caribbean
+247,eez,247,Brunei,2013,0.611789487,Asia
+248,eez,248,Saba,2013,0.637287908,Caribbean
+249,eez,249,Sint Eustatius,2013,0.637980106,Caribbean
+250,eez,250,Aruba,2013,0.584650364,Caribbean
+251,eez,140,Guadeloupe and Martinique,2013,0.636934897,Caribbean
+255,eez,116,Puerto Rico and Virgin Islands of the United States,2013,0.631593194,Caribbean
+1018,fao,260,Arctic Sea,2013,0.522194041,Arctic
+1021,fao,261,"Atlantic, Northwest",2013,0.489760132,"Atlantic, Northwest"
+1027,fao,262,"Atlantic, Northeast",2013,0.597278834,"Atlantic, Northeast"
+1031,fao,263,"Atlantic, Western-Central",2013,0.60805458,"Atlantic, Western-Central"
+1034,fao,264,"Atlantic, Eastern Central",2013,0.542784513,"Atlantic, Eastern Central"
+1041,fao,266,"Atlantic, Southwest",2013,0.517854768,"Atlantic, Southwest"
+1047,fao,267,"Atlantic, Southeast",2013,0.4915738,"Atlantic, Southeast"
+1051,fao,269,"Indian Ocean, Western",2013,0.574428988,"Indian Ocean, Western"
+1057,fao,270,"Indian Ocean, Eastern",2013,0.492501525,"Indian Ocean, Eastern"
+1061,fao,272,"Pacific, Northwest",2013,0.568810754,"Pacific, Northwest"
+1067,fao,273,"Pacific, Northeast",2013,0.462802711,"Pacific, Northeast"
+1071,fao,274,"Pacific, Western Central",2013,0.607860012,"Pacific, Western Central"
+1077,fao,275,"Pacific, Eastern Central",2013,0.552336081,"Pacific, Eastern Central"
+1081,fao,276,"Pacific, Southwest",2013,0.508233012,"Pacific, Southwest"
+1087,fao,277,"Pacific, Southeast",2013,0.492933799,"Pacific, Southeast"
+248100,eez-ccamlr,213,Antarctica,2013,0.356933576,Antarctica
+248200,eez-ccamlr,213,Antarctica,2013,0.367746489,Antarctica
+248300,eez-ccamlr,213,Antarctica,2013,0.336039328,Antarctica
+248400,eez-ccamlr,213,Antarctica,2013,0.31131951,Antarctica
+248500,eez-ccamlr,213,Antarctica,2013,0.218156133,Antarctica
+248600,eez-ccamlr,213,Antarctica,2013,0.305934124,Antarctica
+258410,eez-ccamlr,213,Antarctica,2013,0.319372323,Antarctica
+258420,eez-ccamlr,213,Antarctica,2013,0.320891153,Antarctica
+258431,eez-ccamlr,213,Antarctica,2013,0.32242053,Antarctica
+258432,eez-ccamlr,213,Antarctica,2013,0.306194479,Antarctica
+258441,eez-ccamlr,213,Antarctica,2013,0.35580895,Antarctica
+258442,eez-ccamlr,213,Antarctica,2013,0.353365923,Antarctica
+258510,eez-ccamlr,213,Antarctica,2013,0.368056477,Antarctica
+258520,eez-ccamlr,213,Antarctica,2013,0.320206527,Antarctica
+258600,eez-ccamlr,213,Antarctica,2013,0.369319917,Antarctica
+258700,eez-ccamlr,213,Antarctica,2013,0.362449777,Antarctica
+288100,eez-ccamlr,213,Antarctica,2013,0.277975041,Antarctica
+288200,eez-ccamlr,213,Antarctica,2013,0.347070381,Antarctica
+288300,eez-ccamlr,213,Antarctica,2013,0.349016,Antarctica
+0,eez,16,Australia,2014,0.639897647,Oceania
+1,eez,1,Cocos Islands,2014,0.632604303,Oceania
+2,eez,2,Christmas Island,2014,0.624633455,Oceania
+3,eez,3,Norfolk Island,2014,0.672983893,Oceania
+4,eez,4,Macquarie Island,2014,0.386407599,Oceania
+5,eez,5,New Caledonia,2014,0.690013635,Oceania
+6,eez,6,Vanuatu,2014,0.655443985,Oceania
+7,eez,7,Solomon Islands,2014,0.574921228,Oceania
+8,eez,8,Palau,2014,0.648553044,Oceania
+9,eez,9,Micronesia,2014,0.593725034,Oceania
+10,eez,10,Nauru,2014,0.452576891,Oceania
+11,eez,11,Marshall Islands,2014,0.595739949,Oceania
+12,eez,12,Wake Island,2014,0.591651276,Oceania
+13,eez,13,Northern Mariana Islands and Guam,2014,0.613984744,Oceania
+14,eez,14,Taiwan,2014,0.730035524,Asia
+15,eez,15,Philippines,2014,0.708530513,Asia
+17,eez,17,Papua New Guinea,2014,0.590850322,Oceania
+18,eez,18,Fiji,2014,0.676337423,Oceania
+19,eez,19,Tuvalu,2014,0.594253201,Oceania
+20,eez,20,South Korea,2014,0.59132996,Asia
+21,eez,21,North Korea,2014,0.515508803,Asia
+24,eez,24,Cambodia,2014,0.76804952,Asia
+25,eez,25,Thailand,2014,0.659399356,Asia
+26,eez,26,Andaman and Nicobar,2014,0.501118849,Islands
+28,eez,28,Comoro Islands,2014,0.624899471,Islands
+29,eez,29,Mayotte,2014,0.64168107,Islands
+30,eez,30,Glorioso Islands,2014,0.625560307,Islands
+31,eez,31,Seychelles,2014,0.604686945,Islands
+32,eez,32,Reunion,2014,0.624514757,Islands
+33,eez,33,Juan de Nova Island,2014,0.642479752,Islands
+34,eez,34,Bassas da India,2014,0.646899393,Islands
+35,eez,35,Ile Europa,2014,0.631004309,Islands
+36,eez,36,Ile Tromelin,2014,0.634073245,Islands
+37,eez,37,Mauritius,2014,0.6476905,Islands
+38,eez,38,British Indian Ocean Territory,2014,0.601352113,Islands
+39,eez,39,Maldives,2014,0.587137983,Islands
+40,eez,40,Sri Lanka,2014,0.534648716,Asia
+41,eez,41,Mozambique,2014,0.647283224,Africa
+42,eez,42,Madagascar,2014,0.630133177,Africa
+43,eez,43,Kenya,2014,0.600311884,Africa
+44,eez,44,Somalia,2014,0.552470659,Africa
+45,eez,45,Eritrea,2014,0.558990916,Africa
+46,eez,46,Djibouti,2014,0.558976754,Africa
+47,eez,47,Yemen,2014,0.529137525,Middle East
+48,eez,48,Oman,2014,0.582578304,Middle East
+49,eez,49,Sudan,2014,0.559970435,Africa
+50,eez,50,Saudi Arabia,2014,0.589911604,Middle East
+51,eez,51,Kuwait,2014,0.675000012,Middle East
+52,eez,52,Bahrain,2014,0.669674651,Middle East
+53,eez,53,Pakistan,2014,0.608009796,Asia
+54,eez,54,United Arab Emirates,2014,0.648360405,Middle East
+55,eez,55,Azores,2014,0.531016367,Islands
+56,eez,56,Cape Verde,2014,0.528616638,Islands
+57,eez,57,Madeira,2014,0.588434529,Islands
+58,eez,58,Canary Islands,2014,0.626654081,Islands
+59,eez,59,Belgium,2014,0.35661491,Europe
+60,eez,60,Gibraltar,2014,0.532000005,Europe
+61,eez,61,Tunisia,2014,0.517401392,Africa
+62,eez,62,Morocco,2014,0.569705795,Africa
+63,eez,63,Western Sahara,2014,0.560398456,Africa
+64,eez,64,Mauritania,2014,0.440925176,Africa
+65,eez,65,Gambia,2014,0.478896229,Africa
+66,eez,66,Senegal,2014,0.483208834,Africa
+67,eez,67,Libya,2014,0.517471793,Africa
+68,eez,68,Malta,2014,0.51700002,Europe
+69,eez,69,Latvia,2014,0.432999998,Europe
+70,eez,70,Estonia,2014,0.437786256,Europe
+71,eez,71,Bulgaria,2014,0.361999989,Europe
+72,eez,72,Romania,2014,0.361999989,Europe
+73,eez,73,Russia,2014,0.535086501,Europe
+74,eez,74,Georgia,2014,0.527518784,Europe
+75,eez,75,Ukraine,2014,0.393086913,Europe
+76,eez,76,Turkey,2014,0.467653657,Europe
+77,eez,77,Syria,2014,0.675000012,Middle East
+78,eez,78,Lebanon,2014,0.675000012,Middle East
+79,eez,79,Israel,2014,0.675000012,Middle East
+80,eez,80,Greece,2014,0.487486273,Europe
+81,eez,81,Cyprus,2014,0.675000012,Europe
+82,eez,82,Albania,2014,0.370477771,Europe
+84,eez,84,Algeria,2014,0.525144859,Africa
+85,eez,85,Ascension,2014,0.525497688,Islands
+86,eez,86,Saint Helena,2014,0.576644346,Islands
+88,eez,88,Tristan da Cunha,2014,0.469812284,Islands
+89,eez,89,South Georgia and the South Sandwich Islands,2014,0.359802281,Islands
+90,eez,90,Prince Edward Islands,2014,0.356422366,Islands
+91,eez,91,Crozet Islands,2014,0.372641536,Islands
+92,eez,92,Amsterdam Island and Saint Paul Island,2014,0.482647859,Islands
+93,eez,93,Kerguelen Islands,2014,0.29553461,Islands
+94,eez,94,Heard and McDonald Islands,2014,0.296651991,Islands
+95,eez,95,Falkland Islands,2014,0.407348727,Islands
+96,eez,96,Sierra Leone,2014,0.570270663,Africa
+97,eez,97,Liberia,2014,0.561509451,Africa
+98,eez,98,Togo,2014,0.55545667,Africa
+99,eez,99,Benin,2014,0.558883082,Africa
+100,eez,100,Republique du Congo,2014,0.4697664,Africa
+101,eez,101,Namibia,2014,0.382062927,Africa
+102,eez,102,South Africa,2014,0.577044808,Africa
+103,eez,103,Sao Tome and Principe,2014,0.556531,Islands
+104,eez,104,Equatorial Guinea,2014,0.529904728,Africa
+105,eez,105,Bouvet Island,2014,0.330988481,Islands
+106,eez,106,Ghana,2014,0.555949524,Africa
+107,eez,107,Clipperton Island,2014,0.495756259,Islands
+108,eez,108,Bermuda,2014,0.622794103,Caribbean
+110,eez,110,Bahamas,2014,0.62340408,Caribbean
+111,eez,111,Turks and Caicos Islands,2014,0.618311041,Caribbean
+112,eez,112,Cuba,2014,0.619744433,Caribbean
+113,eez,113,Cayman Islands,2014,0.611187811,Caribbean
+114,eez,114,Haiti,2014,0.630411726,Caribbean
+115,eez,115,Dominican Republic,2014,0.631176056,Caribbean
+117,eez,117,British Virgin Islands,2014,0.645536484,Caribbean
+118,eez,118,Anguilla,2014,0.656779601,Caribbean
+119,eez,119,Saint Kitts and Nevis,2014,0.65477263,Caribbean
+120,eez,120,Antigua and Barbuda,2014,0.66582329,Caribbean
+121,eez,121,Montserrat,2014,0.653033889,Caribbean
+122,eez,122,Saint Lucia,2014,0.632935875,Caribbean
+123,eez,123,Dominica,2014,0.65462997,Caribbean
+124,eez,124,Barbados,2014,0.652936193,Caribbean
+125,eez,125,Grenada,2014,0.60770632,Caribbean
+126,eez,126,Trinidad and Tobago,2014,0.611117427,Caribbean
+127,eez,127,Saint Vincent and the Grenadines,2014,0.620704173,Caribbean
+129,eez,129,Panama,2014,0.460393258,Central America
+130,eez,130,Costa Rica,2014,0.34506374,Central America
+131,eez,131,Nicaragua,2014,0.553461514,Central America
+132,eez,132,Colombia,2014,0.468321485,South America
+133,eez,133,Honduras,2014,0.610542255,Central America
+134,eez,134,El Salvador,2014,0.418870609,Central America
+135,eez,135,Mexico,2014,0.575483496,North America
+136,eez,136,Guatemala,2014,0.441948505,Central America
+137,eez,137,Ecuador,2014,0.279800838,South America
+138,eez,138,Peru,2014,0.359098921,South America
+139,eez,139,Venezuela,2014,0.599898629,South America
+141,eez,141,Faeroe Islands,2014,0.452356751,Europe
+143,eez,143,Iceland,2014,0.438639177,Europe
+144,eez,144,Jan Mayen,2014,0.481069482,Europe
+145,eez,145,Greenland,2014,0.5222,Europe
+146,eez,146,Pitcairn,2014,0.645799392,Oceania
+147,eez,147,French Polynesia,2014,0.640995864,Oceania
+148,eez,148,Line Group,2014,0.486075534,Oceania
+149,eez,149,Jarvis Island,2014,0.410701803,Oceania
+150,eez,150,Palmyra Atoll,2014,0.574930147,Oceania
+151,eez,151,American Samoa,2014,0.686051024,Oceania
+152,eez,152,Samoa,2014,0.672893812,Oceania
+153,eez,153,Cook Islands,2014,0.658031192,Oceania
+154,eez,154,Niue,2014,0.720016636,Oceania
+155,eez,155,Tonga,2014,0.694659521,Oceania
+156,eez,156,Tokelau,2014,0.608367355,Oceania
+157,eez,157,Phoenix Group,2014,0.471885162,Oceania
+158,eez,158,Howland Island and Baker Island,2014,0.406029642,Oceania
+159,eez,159,Johnston Atoll,2014,0.556796588,Oceania
+161,eez,161,Wallis and Futuna,2014,0.655134474,Oceania
+162,eez,162,New Zealand,2014,0.522108826,Oceania
+163,eez,163,United States,2014,0.507459397,North America
+164,eez,164,Belize,2014,0.614278768,Central America
+166,eez,166,Jamaica,2014,0.6187308,Caribbean
+167,eez,167,Guyana,2014,0.6078051,South America
+168,eez,168,Suriname,2014,0.608657574,South America
+169,eez,169,French Guiana,2014,0.617383807,South America
+171,eez,171,Brazil,2014,0.593248671,South America
+172,eez,172,Argentina,2014,0.408176943,South America
+173,eez,173,Uruguay,2014,0.551547817,South America
+174,eez,174,Finland,2014,0.457278752,Europe
+175,eez,175,Denmark,2014,0.403620971,Europe
+176,eez,176,Germany,2014,0.374206549,Europe
+177,eez,177,Netherlands,2014,0.363963012,Europe
+178,eez,178,Poland,2014,0.432230651,Europe
+179,eez,179,France,2014,0.503090483,Europe
+180,eez,180,United Kingdom,2014,0.471596903,Europe
+181,eez,181,Ireland,2014,0.527698705,Europe
+182,eez,182,Spain,2014,0.530940699,Europe
+183,eez,183,Portugal,2014,0.568794804,Europe
+184,eez,184,Italy,2014,0.503391721,Europe
+185,eez,185,Monaco,2014,0.51700002,Europe
+186,eez,186,Montenegro,2014,0.349999994,Europe
+187,eez,187,Croatia,2014,0.349999994,Europe
+188,eez,188,Slovenia,2014,0.349999994,Europe
+189,eez,189,Lithuania,2014,0.432999998,Europe
+190,eez,190,Qatar,2014,0.660796765,Middle East
+191,eez,191,Iran,2014,0.652884299,Middle East
+192,eez,192,Iraq,2014,0.675000012,Middle East
+193,eez,193,Guinea Bissau,2014,0.538590315,Africa
+194,eez,194,Guinea,2014,0.564748705,Africa
+195,eez,195,Ivory Coast,2014,0.554992572,Africa
+196,eez,196,Nigeria,2014,0.575316254,Africa
+197,eez,197,Cameroon,2014,0.595333747,Africa
+198,eez,198,Gabon,2014,0.508962352,Africa
+199,eez,199,Democratic Republic of the Congo,2014,0.465982823,Africa
+200,eez,200,Angola,2014,0.47530721,Africa
+202,eez,202,Tanzania,2014,0.6115938,Africa
+203,eez,203,India,2014,0.63080946,Asia
+204,eez,204,Bangladesh,2014,0.569817141,Asia
+205,eez,205,Myanmar,2014,0.526105165,Asia
+206,eez,206,Malaysia,2014,0.732577367,Asia
+207,eez,207,Vietnam,2014,0.777035233,Asia
+208,eez,208,Singapore,2014,0.74418518,Asia
+209,eez,209,China,2014,0.659133471,Asia
+210,eez,210,Japan,2014,0.662561892,Asia
+212,eez,212,Kiribati,2014,0.449176263,Oceania
+214,eez,214,Egypt,2014,0.64199942,Africa
+215,eez,215,Jordan,2014,0.675000012,Middle East
+216,eez,216,Indonesia,2014,0.626064535,Asia
+218,eez,218,Canada,2014,0.648880875,North America
+219,eez,219,Saint Pierre and Miquelon,2014,0.143551867,North America
+220,eez,220,Sint Maarten,2014,0.658999979,Caribbean
+221,eez,221,Northern Saint-Martin,2014,0.65898665,Caribbean
+222,eez,222,Sweden,2014,0.456975793,Europe
+223,eez,223,Norway,2014,0.509053692,Europe
+224,eez,224,Chile,2014,0.440298858,South America
+227,eez,227,Jersey,2014,0.436558179,Islands
+228,eez,228,Guernsey,2014,0.439157603,Islands
+231,eez,231,East Timor,2014,0.609965039,Oceania
+232,eez,232,Bosnia and Herzegovina,2014,0.349999994,Europe
+237,eez,237,Oecussi Ambeno,2014,0.589090789,Asia
+244,eez,244,Curacao,2014,0.599282175,Caribbean
+245,eez,245,Bonaire,2014,0.590968921,Caribbean
+247,eez,247,Brunei,2014,0.7613181,Asia
+248,eez,248,Saba,2014,0.653441591,Caribbean
+249,eez,249,Sint Eustatius,2014,0.655754294,Caribbean
+250,eez,250,Aruba,2014,0.598149656,Caribbean
+251,eez,140,Guadeloupe and Martinique,2014,0.661357703,Caribbean
+255,eez,116,Puerto Rico and Virgin Islands of the United States,2014,0.638624438,Caribbean
+1018,fao,260,Arctic Sea,2014,0.518044967,Arctic
+1021,fao,261,"Atlantic, Northwest",2014,0.499691874,"Atlantic, Northwest"
+1027,fao,262,"Atlantic, Northeast",2014,0.583805661,"Atlantic, Northeast"
+1031,fao,263,"Atlantic, Western-Central",2014,0.631724877,"Atlantic, Western-Central"
+1034,fao,264,"Atlantic, Eastern Central",2014,0.579107789,"Atlantic, Eastern Central"
+1041,fao,266,"Atlantic, Southwest",2014,0.520768794,"Atlantic, Southwest"
+1047,fao,267,"Atlantic, Southeast",2014,0.491418503,"Atlantic, Southeast"
+1051,fao,269,"Indian Ocean, Western",2014,0.585926678,"Indian Ocean, Western"
+1057,fao,270,"Indian Ocean, Eastern",2014,0.524020442,"Indian Ocean, Eastern"
+1061,fao,272,"Pacific, Northwest",2014,0.589269397,"Pacific, Northwest"
+1067,fao,273,"Pacific, Northeast",2014,0.474438503,"Pacific, Northeast"
+1071,fao,274,"Pacific, Western Central",2014,0.59218336,"Pacific, Western Central"
+1077,fao,275,"Pacific, Eastern Central",2014,0.535989834,"Pacific, Eastern Central"
+1081,fao,276,"Pacific, Southwest",2014,0.516214206,"Pacific, Southwest"
+1087,fao,277,"Pacific, Southeast",2014,0.47213479,"Pacific, Southeast"
+248100,eez-ccamlr,213,Antarctica,2014,0.384167424,Antarctica
+248200,eez-ccamlr,213,Antarctica,2014,0.375045353,Antarctica
+248300,eez-ccamlr,213,Antarctica,2014,0.365992433,Antarctica
+248400,eez-ccamlr,213,Antarctica,2014,0.32076204,Antarctica
+248500,eez-ccamlr,213,Antarctica,2014,0.230458544,Antarctica
+248600,eez-ccamlr,213,Antarctica,2014,0.316362951,Antarctica
+258410,eez-ccamlr,213,Antarctica,2014,0.331303937,Antarctica
+258420,eez-ccamlr,213,Antarctica,2014,0.318028412,Antarctica
+258431,eez-ccamlr,213,Antarctica,2014,0.323313436,Antarctica
+258432,eez-ccamlr,213,Antarctica,2014,0.297443902,Antarctica
+258441,eez-ccamlr,213,Antarctica,2014,0.346080998,Antarctica
+258442,eez-ccamlr,213,Antarctica,2014,0.336436801,Antarctica
+258510,eez-ccamlr,213,Antarctica,2014,0.355158398,Antarctica
+258520,eez-ccamlr,213,Antarctica,2014,0.315748952,Antarctica
+258600,eez-ccamlr,213,Antarctica,2014,0.368217619,Antarctica
+258700,eez-ccamlr,213,Antarctica,2014,0.36436759,Antarctica
+288100,eez-ccamlr,213,Antarctica,2014,0.268452975,Antarctica
+288200,eez-ccamlr,213,Antarctica,2014,0.336437483,Antarctica
+288300,eez-ccamlr,213,Antarctica,2014,0.369881923,Antarctica
