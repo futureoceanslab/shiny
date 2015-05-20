@@ -5,22 +5,23 @@ library(shiny)
 
 shinyUI(fluidPage(
   
-  titlePanel("Ocean Acidification Shiny Demo"),
+  titlePanel("Shiny Demo: FAO Fishing Data"),
 
   sidebarLayout(
     sidebarPanel(
-      selectInput('dataset',"Choose a dataset:",
-                 choices=c('acid','uv','sst')))
-    ,
+      selectInput('year','Year',choices = c(1950:2012)),
+      sliderInput("n", "Top # Countries:", min = 1, max = 100, value = 20),
+      selectInput('country','Country',choices = countries)),
   
   mainPanel(
     tabsetPanel(
-      tabPanel("Histogram",plotOutput("histPlot")),
+      tabPanel("Bar Plot",plotOutput("barPlot")),
       tabPanel("Line Chart",plotOutput("lineChart")),
-      tabPanel("GoogleVis",h4("Ocean Acidification OHI Scores"),htmlOutput("motionChart"))
+      tabPanel("GoogleVis",h4("FAO Fishing Data"),htmlOutput("motionChart"))
 
       )
     ) 
 )
 )
 )
+
